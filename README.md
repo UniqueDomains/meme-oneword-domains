@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MEME one-word domains still available to buy.
 
-This dataset contains 4,791 .MEME one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,789 .MEME one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MEME one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=meme-oneword-domains&utm_content=description.top) (4,794) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.MEME one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.meme        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.meme      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.meme        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.meme      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.meme  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.meme      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.meme  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.MEME one word domains
 | abatic.meme     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.meme    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.meme   | available | 50       | 1%     | 8      |           |         |         |
-| abc.meme        | available | 102      | 41%    | 3      |           |         |         |
+| abc.meme        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.meme  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.meme  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.meme | available | 56       | 1%     | 10     |           |         |         |
