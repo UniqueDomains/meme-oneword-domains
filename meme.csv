@@ -717,6 +717,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3f460987-6d7c-4b02-a5f9-92e37809b508,keepbooks.meme,available,15.98,,52,2,10,namecheap,,
 3f518041-9f2b-4451-8622-51d9afbe7b65,getturnedaround.meme,available,15.98,,64,1,17,namecheap,,
 3f62c7c1-8a82-4ea2-9279-8620dc719dea,flipping.meme,premium,62.5,,70,12,8,name.com,,
+3f6c4e82-5f74-4ba0-af83-9ee71e029056,brownie.meme,premium,,,80,15,7,,,
 3f6ef0fa-abbd-4377-9524-cff069df3f41,snuck.meme,available,15.98,,46,3,5,namecheap,,
 3f71b49f-ef07-4f20-85d4-56509aa302c1,vacationed.meme,available,15.98,,62,1,10,namecheap,,
 3f933c92-d721-4e4e-b745-2d6c5cf71ae2,manypartedness.meme,available,15.98,,64,1,15,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57c5aacf-bc7f-4e81-b098-9e282dd283f4,getovertheline.meme,available,15.98,,69,1,17,namecheap,,
 57db1542-42af-44b3-a2fe-976a60a558d7,dogs.meme,premium,1625,,76,28,4,name.com,,
 580aee9f-a044-428b-9736-240bb9fa89b4,nails.meme,premium,437.5,,62,18,5,name.com,,
-580afadb-b688-47e1-a773-0bf86ad27e05,getaways.meme,available,15.98,,50,9,8,namecheap,,
