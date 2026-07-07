@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .meme one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,657 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,657 domains · **Median ask:** $102.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,657 domains · **Median ask:** $150.05 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/meme`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/meme`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MEME one-word domain 
 
 ### Files
 
-- `meme.csv` — public CSV extract (1,000 rows)
-- `meme.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `meme.csv`, public CSV extract (1,000 rows)
+- `meme.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.meme         | available | $15.98    | —             | 80             | 5      | 5      | namecheap |
-| toneup.meme       | available | $15.98    | —             | 80             | 5      | 7      | namecheap |
-| dogsick.meme      | available | $15.98    | —             | 90             | 1      | 7      | namecheap |
-| Snickers.meme     | available | $15.98    | —             | 80             | 10     | 8      | namecheap |
-| beawake.meme      | available | $15.98    | —             | 84             | 3      | 8      | namecheap |
-| chaitea.meme      | available | $15.98    | —             | 86             | 3      | 8      | namecheap |
-| dogstail.meme     | available | $15.98    | —             | 94             | 1      | 8      | namecheap |
-| bedframe.meme     | available | $15.98    | —             | 80             | 3      | 9      | namecheap |
-| flaxseed.meme     | available | $15.98    | —             | 80             | 4      | 9      | namecheap |
-| midautumn.meme    | available | $15.98    | —             | 80             | 2      | 9      | namecheap |
-| RedSox.meme       | available | $15.98    | —             | 72             | 60     | 7      | namecheap |
-| insight.meme      | premium   | $437.50   | —             | 76             | 69     | 8      | name.com  |
-| prompts.meme      | available | $15.98    | —             | 54             | 39     | 7      | namecheap |
-| online.meme       | premium   | $1,625    | —             | 70             | 62     | 7      | name.com  |
-| neuroscience.meme | available | $15.98    | —             | 80             | 37     | 12     | namecheap |
-| donuts.meme       | premium   | $187.50   | —             | 54             | 62     | 6      | name.com  |
-| breakingnews.meme | available | $15.98    | —             | 66             | 19     | 13     | namecheap |
-| travelers.meme    | premium   | $187.50   | —             | 58             | 61     | 9      | name.com  |
-| outofoffice.meme  | available | $15.98    | —             | 61             | 19     | 13     | namecheap |
-| regions.meme      | premium   | $112.50   | —             | 64             | 59     | 7      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| canon.meme  | available | $15.98    | —             | high           | medium | 5      | namecheap        |
+| obey.meme   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| bce.meme    | premium   | $112.50   | —             | medium         | low    | 3      | name.com         |
+| Fairs.meme  | available | $15.98    | —             | high           | low    | 5      | namecheap        |
+| ben.meme    | premium   | $812.50   | —             | high           | medium | 3      | name.com         |
+| fewer.meme  | available | $15.98    | —             | medium         | low    | 5      | namecheap        |
+| bio.meme    | premium   | $812.50   | —             | high           | medium | 3      | name.com         |
+| repel.meme  | available | $15.98    | —             | high           | low    | 5      | namecheap        |
+| cap.meme    | premium   | $812.50   | —             | high           | low    | 3      | name.com         |
+| Rhoda.meme  | available | $15.98    | —             | medium         | low    | 5      | namecheap        |
+| cut.meme    | premium   | $812.50   | $812.50       | high           | low    | 3      | name.com         |
+| shrub.meme  | available | $15.98    | —             | medium         | low    | 5      | namecheap        |
+| DJI.meme    | premium   | $112.50   | —             | high           | low    | 3      | name.com         |
+| woops.meme  | available | $15.98    | —             | high           | low    | 5      | namecheap        |
+| dye.meme    | premium   | $112.50   | —             | medium         | low    | 3      | name.com         |
+| worse.meme  | available | $15.98    | —             | high           | low    | 5      | namecheap        |
+| far.meme    | premium   | $812.50   | —             | high           | low    | 3      | name.com         |
+| abient.meme | available | $15.98    | —             | medium         | low    | 6      | namecheap        |
+| Fla.meme    | premium   | $112.50   | —             | medium         | low    | 3      | name.com         |
+| adored.meme | available | $15.98    | —             | high           | low    | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .meme domains. The names range from literal words and phrases like finals.meme and useit.meme to more playful or referential terms like pierogi.meme and Shrek.meme. That makes this set highly specific: memorable in the right context, but less universal than mainstream extensions. When comparing these domains, focus first on whether the word still reads clearly with .meme, then on ask price versus how narrow the use case is. For buyers building a shortlist, the strongest picks are usually short, easy to say, and understandable without explanation.
+This list of domain names covers 12,657 one-word entries on the .meme extension, ranging from playful phrases like coffeemilk.meme and chaitea.meme to punchy statements like makehistory.meme and keepfaith.meme. Median asking price across the set is about $150.05, making most names accessible for quick evaluation. Because .meme is a newer extension, buyers should weigh each name's clarity and recall against its price rather than relying on established brand trust. Names that read as real phrases or common expressions tend to carry broader appeal across both community projects and resale consideration.
 
-- All domains in this selection use the .meme extension
-- Count: 12,655 domains; median ask: 102.21
-- Prioritize words that stay clear and memorable with .meme
-- Check for cultural or trademark risk on referential terms
+- 12,657 one-word .meme domain names in this selection
+- Median asking price near $150.05 per domain
+- Playful, meme-culture naming style (e.g., bonappetit.meme)
+- Short, brandable strings suited for community or niche brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEME One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEME One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
