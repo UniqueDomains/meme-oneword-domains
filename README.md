@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .meme one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,604 domains · **Median ask:** $100.80 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/meme`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ache.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| obey.meme | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| aft.meme  | premium   | $112.50   | $112.50       | low            | low    | 3      | name.com         |
-| agog.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| bce.meme  | premium   | $112.50   | —             | medium         | low    | 3      | name.com         |
-| ashy.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| ben.meme  | premium   | $812.50   | —             | high           | medium | 3      | name.com         |
-| eyry.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| bio.meme  | premium   | $812.50   | —             | high           | medium | 3      | name.com         |
-| flak.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| cap.meme  | premium   | $812.50   | —             | high           | low    | 3      | name.com         |
-| lvii.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| cut.meme  | premium   | $812.50   | $812.50       | high           | low    | 3      | name.com         |
-| lxii.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| cxx.meme  | premium   | $112.50   | $112.50       | low            | low    | 3      | name.com         |
-| lxxx.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| DJI.meme  | premium   | $112.50   | —             | high           | low    | 3      | name.com         |
-| sore.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
-| dye.meme  | premium   | $112.50   | —             | medium         | low    | 3      | name.com         |
-| taal.meme | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| hello.meme   | premium   | $1,625    | —             | high           | high   | 5      | name.com         |
+| easy.meme    | premium   | $1,625    | $1,625        | high           | medium | 4      | name.com         |
+| cut.meme     | premium   | $812.50   | $812.50       | high           | low    | 3      | name.com         |
+| perfect.meme | premium   | $437.50   | —             | high           | low    | 7      | name.com         |
+| ache.meme    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| obey.meme    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| aft.meme     | premium   | $112.50   | $112.50       | low            | low    | 3      | name.com         |
+| agog.meme    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| bce.meme     | premium   | $112.50   | —             | medium         | low    | 3      | name.com         |
+| ashy.meme    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| ben.meme     | premium   | $812.50   | —             | high           | medium | 3      | name.com         |
+| eyry.meme    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| bio.meme     | premium   | $812.50   | —             | high           | medium | 3      | name.com         |
+| flak.meme    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| cap.meme     | premium   | $812.50   | —             | high           | low    | 3      | name.com         |
+| lvii.meme    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| lxii.meme    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| cxx.meme     | premium   | $112.50   | $112.50       | low            | low    | 3      | name.com         |
+| lxxx.meme    | available | $12.98    | $15.98        | low            | low    | 4      | namecheap        |
+| DJI.meme     | premium   | $112.50   | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEME One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEME One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
