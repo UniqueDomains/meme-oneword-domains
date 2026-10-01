@@ -2,6 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 cae62703-67eb-4c36-b73c-3c8969322f9b,carven.meme,available,12.98,15.98,medium,low,6,namecheap,,,11/08/2026 19:59
 8ff2670c-0fc7-4729-a940-2b94166135ca,oxidised.meme,available,12.98,15.98,medium,low,8,namecheap,,,04/09/2026 22:28
 76c3fdf3-bfbe-4a9b-8aa0-d6f2fcb784a3,scary.meme,premium,187.5,187.5,high,low,5,name.com,,,12/08/2026 05:23
+c91d407c-549c-4b61-9e5b-3137405647dc,willett.meme,available,10.55,10.55,medium,low,7,spaceship,,,30/09/2026 21:34
 0e4f426a-cafe-49ee-b921-de8f563cd040,secular.meme,available,12.98,15.98,medium,low,7,namecheap,,,22/08/2026 18:49
 355eb15a-ab59-4946-9f1b-3250a9369aac,mistreated.meme,available,12.98,15.98,medium,low,10,namecheap,,,21/08/2026 19:35
 a136332e-0f33-4fef-bff7-f7670def8277,sissified.meme,available,12.98,15.98,medium,low,9,namecheap,,,12/08/2026 08:41
@@ -29,10 +30,11 @@ d1af67d6-6fc2-490f-8812-c85d8ac869b1,defender.meme,premium,150.2,,high,low,8,uns
 0bdd8838-5ed9-4c39-b1dd-5c2d11382d51,lms.meme,premium,,,high,low,3,,,,29/09/2026 15:35
 fb192c3c-6016-4387-8e27-c0db6e9c1c3a,suspicions.meme,available,12.98,15.98,low,low,10,namecheap,,,18/09/2026 08:04
 21605f10-cfef-4d2a-99ea-2ca57b10ba46,structures.meme,premium,112.5,,medium,low,10,name.com,,,
-90d9e58f-85d1-427f-852e-1a06898252c8,identity.meme,premium,195,195,high,medium,8,namecheap,,,28/09/2026 04:14
+90d9e58f-85d1-427f-852e-1a06898252c8,identity.meme,premium,150.2,195,high,medium,8,unstoppable,,,30/09/2026 21:00
 ced5216d-d24c-45fa-b700-5330df33c07c,beryl.meme,premium,65,65,medium,low,5,namecheap,,,23/09/2026 10:23
 9adffda8-d8c3-43f0-9f12-490eefb2d4f8,congregational.meme,available,15.98,,medium,low,14,namecheap,,,
 d97d27b4-622a-413a-a6bc-62f953300871,precooled.meme,available,12.98,15.98,high,medium,9,namecheap,,,09/09/2026 01:18
+690c094a-5a41-4d12-ab68-210b9648d3b7,budge.meme,available,14,,medium,low,5,unstoppable,,,30/09/2026 16:30
 dfdb9581-fd34-49f0-b6bf-7678880b0a3f,undecided.meme,available,12.98,15.98,high,low,9,namecheap,,,04/09/2026 14:20
 265e446c-02c3-4c86-8585-fa19031ce1e1,sorted.meme,premium,112.5,112.5,high,low,6,name.com,,,20/08/2026 20:24
 87f32f99-f216-4404-81a8-7c0760dd42d7,occupier.meme,available,12.98,15.98,high,low,8,namecheap,,,09/09/2026 14:58
@@ -42,6 +44,7 @@ b0cf2d93-9141-4272-b4c3-16e91270931c,cwt.meme,premium,,,high,high,3,,,,29/09/202
 283107be-e51e-4196-9c1e-48665234e895,randomized.meme,available,12.98,15.98,high,medium,10,namecheap,,,09/09/2026 10:14
 79f07a3b-4b79-4b1a-bf46-1876c592b708,age.meme,premium,455,455,high,low,3,namecheap,,,19/09/2026 07:13
 b6a64830-e1a6-45ab-b571-e76545ad3e11,sweetsop.meme,available,12.98,15.98,medium,low,8,namecheap,,,19/09/2026 10:27
+566291e0-defe-4638-8fa1-e35cc8c54082,alphabets.meme,available,10.81,10.81,medium,low,9,porkbun,,,01/10/2026 00:06
 ec46e634-ca29-42a3-845b-53b787715a63,shapely.meme,available,12.98,15.98,high,low,7,namecheap,,,10/09/2026 05:57
 d4457a73-8a1e-4e0c-b8c0-c5a8c06ae2a3,bulgarian.meme,available,12.98,15.98,high,low,9,namecheap,,,11/08/2026 08:23
 71d9122d-e78f-43bc-98ca-7252e6989a59,incorporated.meme,available,10.55,10.55,medium,low,12,spaceship,,,28/09/2026 22:28
@@ -61,7 +64,7 @@ abb9fca1-2cd3-410d-9c24-81af06b59457,hiatus.meme,premium,65,65,high,low,6,namech
 3ca21179-9082-4bfc-afce-8a60ad666b6f,thrashing.meme,available,12.98,15.98,medium,low,9,namecheap,,,13/09/2026 07:54
 9cf9d207-e5ba-43cd-b545-e5fdef10a294,tolerant.meme,available,12.98,15.98,high,low,8,namecheap,,,22/08/2026 19:55
 5a69882a-6aec-462b-b8cc-7828ed2fe3c9,bistre.meme,available,12.98,15.98,medium,low,6,namecheap,,,23/09/2026 22:12
-c4d8995f-fa72-4fce-99c8-ce8297f3db6e,where.meme,premium,812.5,,high,low,5,name.com,,,
+c4d8995f-fa72-4fce-99c8-ce8297f3db6e,where.meme,premium,812.5,,high,low,5,name.com,,,30/09/2026 22:56
 2afc58f9-7ac0-4582-b445-7f0cc5351ec1,julie.meme,premium,195,195,high,low,5,namecheap,,,25/09/2026 14:47
 24c2b2ab-85eb-4624-ac33-008743a147f5,emmanuel.meme,premium,117,117,high,low,8,namecheap,,,27/09/2026 03:07
 3bb62e69-0a13-4b76-adff-f7370c55e3d1,unclear.meme,available,12.98,15.98,high,low,7,namecheap,,,21/08/2026 19:00
@@ -72,17 +75,17 @@ f465a139-5d1d-40d1-84d2-6bf38755cd47,great.meme,premium,845,845,high,medium,5,na
 30dc915f-0bf7-4cec-837e-e32a00714f61,behmen.meme,available,12.98,15.98,medium,low,6,namecheap,,,23/09/2026 03:43
 1d9009fe-d4b9-4e42-8199-edbe9214aad6,gaps.meme,premium,117,117,medium,low,4,namecheap,,,20/09/2026 11:47
 80b30db8-7e18-4263-ad60-ea92f8726b93,dusky.meme,available,12.98,15.98,high,low,5,namecheap,,,14/08/2026 21:32
-412c8016-77e4-4627-b025-7f6ce1ab5bda,musset.meme,available,12.98,15.98,high,low,6,namecheap,,,18/09/2026 06:29
+412c8016-77e4-4627-b025-7f6ce1ab5bda,musset.meme,available,12.98,15.98,medium,low,6,namecheap,,,18/09/2026 06:29
 bf00b197-4914-484e-a590-3b238af6c2e4,friedrich.meme,available,12.98,15.98,high,low,9,namecheap,,,25/09/2026 18:50
 5fb25a14-5bcb-4539-91d5-6b748e11f344,exam.meme,premium,845,845,high,low,4,namecheap,,,27/09/2026 03:51
 77fd97f6-67e8-466a-8041-3f37fc48486d,lynn.meme,premium,117,117,high,low,4,namecheap,,,27/09/2026 07:20
 baa7a963-2381-4e0e-b204-25618b779e31,abator.meme,available,12.98,15.98,medium,low,6,namecheap,,,16/09/2026 14:13
-e2db0cd7-4727-44b8-ad89-8e8033d6cf43,ascetic.meme,available,12.98,15.98,high,low,7,namecheap,,,07/08/2026 00:56
+e2db0cd7-4727-44b8-ad89-8e8033d6cf43,ascetic.meme,available,12.98,15.98,medium,low,7,namecheap,,,07/08/2026 00:56
 8a5fb527-440d-4191-b203-ac249d91a785,collective.meme,premium,112.5,112.5,high,medium,10,name.com,,,12/08/2026 17:03
 2b8269e9-6551-44cc-849f-eba76df73706,transcription.meme,available,12.98,15.98,medium,low,13,namecheap,,,29/09/2026 23:27
 3f1e6fcd-4f00-4c56-8ad8-6976847f922f,blower.meme,premium,62.5,62.5,medium,low,6,name.com,,,12/08/2026 01:06
 9d2bdb3f-fc36-477a-bd6c-495a66fae31a,anabolic.meme,available,12.98,15.98,high,low,8,namecheap,,,
-d75341a8-5d50-4ae7-beb6-a57d1387791b,msg.meme,premium,112.5,,high,low,3,name.com,,,
+d75341a8-5d50-4ae7-beb6-a57d1387791b,msg.meme,premium,112.5,,high,low,3,name.com,,,30/09/2026 05:12
 2a5dadc7-84f2-4a7c-918d-f92eb3ed99dd,puppyish.meme,available,12.98,15.98,high,medium,8,namecheap,,,09/09/2026 06:09
 6b55d112-1475-4949-89c3-ddb327ec29f3,saline.meme,premium,65,65,high,medium,6,namecheap,,,09/09/2026 20:54
 d95c7abf-272f-4d89-af59-7989721fdb11,banks.meme,premium,845,845,high,low,5,namecheap,,,22/09/2026 02:52
@@ -91,7 +94,7 @@ c023432e-8dd5-4517-98d3-5e4329be6fe5,atenolol.meme,available,12.98,15.98,medium,
 31930b70-773e-482c-b072-4002362692c8,offended.meme,available,12.98,15.98,medium,low,8,namecheap,,,04/09/2026 01:24
 58cb57a3-e778-45db-9100-a80fb1c50e7b,breed.meme,premium,93.35,93.35,high,low,5,spaceship,,,27/09/2026 11:59
 b07ee69d-3038-40cf-bd5c-aae956491fb9,nerd.meme,premium,155.45,155.45,high,medium,4,spaceship,,,29/09/2026 17:17
-5fdab213-c60d-4614-8bd7-39efc402182a,sinful.meme,premium,62.5,62.5,high,low,6,name.com,,,22/08/2026 05:27
+5fdab213-c60d-4614-8bd7-39efc402182a,sinful.meme,premium,62.5,62.5,medium,low,6,name.com,,,22/08/2026 05:27
 490ae468-775b-4762-b85c-8392d2be7160,spheroidal.meme,available,12.98,15.98,medium,low,10,namecheap,,,16/08/2026 05:22
 c2c407fb-1f28-4da5-b26b-1cac979865f6,aphesis.meme,available,12.98,15.98,medium,low,7,namecheap,,,19/09/2026 16:55
 d189114a-70a6-4786-afae-4e19bb1d7f84,browning.meme,available,10.55,10.55,high,low,8,spaceship,,,29/09/2026 11:47
@@ -106,40 +109,43 @@ f7ff3d38-8291-4833-8feb-4d7bc3e624f0,panicked.meme,available,12.98,15.98,medium,
 c426d56a-4eb4-46ef-80c6-c97a9786e2ab,wheaton.meme,available,14,,high,low,7,unstoppable,,,28/09/2026 07:32
 a92905f9-7147-4818-8886-f7ccf2d4146a,chores.meme,available,10.81,10.81,medium,low,6,porkbun,,,29/09/2026 17:46
 e3eb13e3-ebf8-4374-86af-b5ddd7a645b1,dudley.meme,premium,51.95,51.95,medium,low,6,spaceship,,,28/09/2026 12:03
-a70fd967-76cd-4910-a03b-36f403505193,stitched.meme,available,12.98,15.98,high,low,8,namecheap,,,10/09/2026 05:09
-35dd04b9-d36e-4fcc-89a3-c52d679ebc5f,wishing.meme,premium,62.5,,high,low,7,name.com,,,
+a70fd967-76cd-4910-a03b-36f403505193,stitched.meme,available,12.98,15.98,medium,low,8,namecheap,,,10/09/2026 05:09
+35dd04b9-d36e-4fcc-89a3-c52d679ebc5f,wishing.meme,premium,65,65,high,low,7,namecheap,,,30/09/2026 14:46
 239fbb56-290a-49b8-ae77-79acac95d0f0,allemande.meme,available,12.98,15.98,medium,low,9,namecheap,,,18/09/2026 10:46
 07be994c-f5bd-41ab-b419-647e557837df,quality.meme,premium,455,455,high,low,7,namecheap,,,23/09/2026 14:21
 01acef48-c367-41cc-95a4-7604e5ac3f5f,frost.meme,premium,437.5,437.5,high,low,5,name.com,,,21/08/2026 10:05
 8c45ce55-92fd-4231-ba39-41f5022544fd,sedate.meme,available,12.98,15.98,high,low,6,namecheap,,,20/08/2026 18:40
 40c95cec-39c2-4b64-9121-cad627c6c6cd,indicates.meme,available,10.55,10.55,medium,low,9,spaceship,,,28/09/2026 08:19
 4b9f7c25-b8ed-41b2-b8f7-572461826dfc,alcove.meme,premium,65,65,high,low,6,namecheap,,,18/09/2026 04:11
-2eb813d3-e666-4e2c-9fba-eea73719149a,boneless.meme,available,12.98,15.98,high,low,8,namecheap,,,10/08/2026 18:38
+57d5677b-15af-4460-91ed-21c325418616,mead.meme,premium,51.95,51.95,high,low,4,spaceship,,,30/09/2026 17:28
+2eb813d3-e666-4e2c-9fba-eea73719149a,boneless.meme,available,12.98,15.98,medium,low,8,namecheap,,,10/08/2026 18:38
 11a34353-2f4c-4b36-857e-009ca81cfe3e,cleverly.meme,available,10.55,10.55,high,low,8,spaceship,,,28/09/2026 13:56
 84ede1fc-4a07-4f19-a785-d08b5a83c174,grinning.meme,available,10.2,10.2,high,low,8,cloudflare,,,27/09/2026 23:14
+8de21984-5270-4967-93dc-7b0dd2a88a5d,hedges.meme,available,10.2,10.2,medium,low,6,cloudflare,,,30/09/2026 04:31
 75d411a0-c17d-4d05-9741-d528480bb4b3,body.meme,premium,845,845,high,low,4,namecheap,,,24/09/2026 06:32
 b245935e-4b77-4af0-8954-f8644fe8676d,keeled.meme,available,12.98,15.98,medium,low,6,namecheap,,,11/08/2026 19:16
 709a2016-9b9e-42bf-a921-8c950ad3035e,bloch.meme,premium,55.11,55.11,medium,low,5,porkbun,,,28/09/2026 00:50
 a8f1b0bd-9799-472a-8a5e-d43c1de88ab6,headaches.meme,available,10.55,10.55,low,low,9,spaceship,,,29/09/2026 06:01
+5a3fe243-08d3-474d-9934-81af7637df88,attracting.meme,available,10.55,10.55,medium,low,10,spaceship,,,30/09/2026 06:33
 a808cd54-c729-4dbe-a0d1-159186d040af,bombay.meme,premium,93.35,93.35,high,low,6,spaceship,,,29/09/2026 00:15
-21493a09-a310-4bd0-a20c-02e76152e6a2,snarl.meme,available,12.98,15.98,high,low,5,namecheap,,,24/08/2026 16:56
+21493a09-a310-4bd0-a20c-02e76152e6a2,snarl.meme,available,12.98,15.98,medium,low,5,namecheap,,,24/08/2026 16:56
 982b54f0-f9e0-4d3f-8d5f-53763dc11a92,affine.meme,available,12.98,15.98,high,low,6,namecheap,,,
 f57ea579-552e-48aa-ba27-1bfc4b842896,laugh.meme,premium,117,117,high,low,5,namecheap,,,29/09/2026 20:26
-651dde23-22ae-4493-9941-cf1eaa77e9ad,indium.meme,available,18.99,18.99,high,low,6,name.com,,,20/09/2026 23:11
+651dde23-22ae-4493-9941-cf1eaa77e9ad,indium.meme,available,18.99,18.99,medium,low,6,name.com,,,20/09/2026 23:11
 d1b9dbab-920c-40ec-97d4-353e0d268466,snack.meme,premium,362.45,362.45,high,low,5,spaceship,,,28/09/2026 06:30
-491d6004-2772-465e-91bb-83a2e4ef4dbb,administration.meme,available,12.98,15.98,high,low,14,namecheap,,,28/09/2026 03:19
-3fd104a5-6443-4747-b08b-fbb26dacd989,thou.meme,available,12.98,15.98,high,low,4,namecheap,,,21/09/2026 11:11
+491d6004-2772-465e-91bb-83a2e4ef4dbb,administration.meme,available,10.2,10.2,high,low,14,cloudflare,,,30/09/2026 08:00
+3fd104a5-6443-4747-b08b-fbb26dacd989,thou.meme,available,12.98,15.98,medium,low,4,namecheap,,,21/09/2026 11:11
 fe3f1e44-f97e-4351-8621-ff0c3de2f241,php.meme,premium,710.1,710.1,high,low,3,porkbun,,,29/09/2026 03:43
 696af380-3380-4caf-9166-c8640f1d5bd2,antiques.meme,premium,117,117,medium,low,8,namecheap,,,29/09/2026 10:31
 a13b23ff-8a8d-406f-8457-0eba4b511a36,bus.meme,premium,1345.7,1345.7,high,low,3,spaceship,,,28/09/2026 23:27
 bbde9d66-bc44-45db-84ab-a3251e070fcb,probative.meme,available,12.98,15.98,medium,low,9,namecheap,,,09/09/2026 02:27
 0f11d97e-0a20-45de-91e9-4e42c69108c1,coma.meme,premium,455,455,high,low,4,namecheap,,,25/09/2026 04:19
-cded7e2b-61e7-494d-8fee-b146eb985481,dads.meme,premium,65,65,high,low,4,namecheap,,,20/09/2026 10:27
+cded7e2b-61e7-494d-8fee-b146eb985481,dads.meme,premium,65,65,medium,low,4,namecheap,,,20/09/2026 10:27
 8cc6dc90-9a6c-4700-8321-3059426877be,amendment.meme,available,12.98,15.98,high,low,9,namecheap,,,18/09/2026 18:38
 53fe1e69-a5e2-4aa8-a7e2-a360ef2511bd,marilyn.meme,premium,117,117,high,low,7,namecheap,,,27/09/2026 06:57
 9bb6ac15-0d2d-448c-a5b8-cb69c0e6a28c,kweek.meme,available,12.98,15.98,medium,low,5,namecheap,,,21/09/2026 18:35
 14cc3843-29e1-4133-ab2e-c327002fd094,arbitrarily.meme,available,15.98,,medium,low,11,namecheap,,,
-8165e2ae-3dab-412c-afeb-5c7bbab36fcd,november.meme,premium,112.5,,high,low,8,name.com,,,
+8165e2ae-3dab-412c-afeb-5c7bbab36fcd,november.meme,premium,93.35,93.35,high,low,8,spaceship,,,30/09/2026 05:53
 3079dffe-5803-43cd-a6b0-60c67aa665e8,trip.meme,premium,1690,1690,high,low,4,namecheap,,,08/09/2026 04:57
 0fe78e18-3358-47b0-8b4e-ecd7c5148971,valmy.meme,available,12.98,15.98,medium,low,5,namecheap,,,22/09/2026 16:13
 b06455ac-fa6e-4bc4-943d-19eec6cc0490,bilges.meme,available,12.98,15.98,medium,low,6,namecheap,,,23/09/2026 15:54
@@ -178,14 +184,16 @@ b58734ff-594b-463e-832d-d70aadf0bd4d,anseres.meme,available,12.98,15.98,medium,l
 987fcb95-9e40-48ad-ab0c-87d7cb59c8b9,wessex.meme,available,14,,high,low,6,unstoppable,,,29/09/2026 08:19
 9b11a84e-bd1a-4689-80a0-e0cae7ef2e34,gratitude.meme,premium,50.2,,high,low,9,unstoppable,,,29/09/2026 21:31
 75b77949-5fb7-4da0-a64e-5b46d1a1ad64,spoof.meme,premium,65,65,high,low,5,namecheap,,,23/09/2026 11:26
-626ec8c4-6042-4e75-af90-48088a6fe000,sandwich.meme,premium,187.5,,high,low,8,name.com,,,
+626ec8c4-6042-4e75-af90-48088a6fe000,sandwich.meme,premium,187.5,,high,low,8,name.com,,,30/09/2026 10:33
 ba7c3f4a-9354-4df5-946c-4bc905190b28,kissinger.meme,available,10.55,10.55,medium,low,9,spaceship,,,28/09/2026 10:01
 c6cd6d01-4e7d-496d-9c4e-0fd9e1c0adff,soapy.meme,available,12.98,15.98,medium,low,5,namecheap,,,11/08/2026 11:48
 452e1df6-642c-4c91-9faa-d4d0bbf430eb,patient.meme,premium,65,65,high,low,7,namecheap,,,27/09/2026 03:04
+45a95b0f-022f-47f2-a940-a25e8284b36f,ora.meme,premium,650.2,,high,medium,3,unstoppable,,,30/09/2026 19:25
 a77ac415-5fcc-4eec-9274-ce27b5bd30c4,nucleated.meme,available,12.98,15.98,medium,low,9,namecheap,,,03/09/2026 22:22
-5bb2f6c6-1a88-4465-8669-7d0581ef00b8,nike.meme,available,15.98,,high,high,4,namecheap,,,
+5bb2f6c6-1a88-4465-8669-7d0581ef00b8,nike.meme,available,10.2,10.2,high,high,4,cloudflare,,,30/09/2026 05:45
 386899fa-9579-4a1c-b779-8b4b9555ae60,graft.meme,premium,117,117,high,low,5,namecheap,,,24/09/2026 10:15
 602fe5b5-4814-4806-b77d-349fe19d69fb,open.meme,premium,1690,1690,high,medium,4,namecheap,,,22/09/2026 09:52
+1ac90a04-74fe-48a9-a6f7-fbfb01e645f7,medicines.meme,premium,51.95,51.95,medium,low,9,spaceship,,,30/09/2026 06:22
 7e838898-521c-420d-91a9-7734c2280573,monastery.meme,available,10.2,10.2,high,low,9,cloudflare,,,28/09/2026 19:54
 e798a9c0-d396-4354-9cab-70879203f472,ended.meme,available,12.98,15.98,high,low,5,namecheap,,,
 5ab6dffb-7704-414b-9008-5fb2a4f0e5c5,expendable.meme,available,12.98,15.98,high,low,10,namecheap,,,17/08/2026 18:08
@@ -231,6 +239,7 @@ c831316f-0638-45b7-a5c8-b9f4eff85978,socioeconomic.meme,available,12.98,15.98,me
 7039efbf-0b41-4f40-82e1-5a29d550e71e,slope.meme,premium,117,117,high,low,5,namecheap,,,29/09/2026 23:47
 1046fb0e-8360-4a57-83ff-c8045df00967,bipolar.meme,premium,112.5,112.5,high,low,7,name.com,,,10/08/2026 05:30
 a451b87b-3514-4343-8847-96f689730687,veined.meme,available,12.98,15.98,medium,low,6,namecheap,,,13/09/2026 01:53
+cfde239f-3b6d-41d4-ac2d-fab310a935f7,moods.meme,premium,51.95,51.95,high,low,5,spaceship,,,30/09/2026 07:06
 fc8865f1-a4c3-48e1-b98e-9c3f3249bb12,asystole.meme,available,12.98,15.98,medium,low,8,namecheap,,,20/09/2026 18:57
 b4fc7eed-a5bc-4687-918e-8e655c8a5489,changes.meme,premium,62.5,,medium,low,7,name.com,,,
 ac56cf81-cc3b-4317-ab7f-dfc3d1c64e10,publish.meme,premium,155.45,155.45,high,low,7,spaceship,,,28/09/2026 06:03
@@ -241,7 +250,7 @@ c9e18b3d-e010-42aa-9b50-3722d3547b0c,cavernous.meme,available,12.98,15.98,medium
 7e7332cc-c9e8-4a11-bb38-4a7bbb451757,nether.meme,available,12.98,15.98,high,low,6,namecheap,,,12/08/2026 07:29
 d81265dd-fd36-4044-82bb-ee553a466c91,headteacher.meme,available,15.98,,high,low,12,namecheap,,,
 82f86ddc-56d3-4663-afd3-eb17f194712c,muhammadan.meme,available,12.98,15.98,medium,low,10,namecheap,,,25/08/2026 03:21
-56e15126-20f6-49ad-ab1a-c8e3fb01778c,csu.meme,premium,90.2,,high,low,3,unstoppable,,,29/09/2026 09:33
+56e15126-20f6-49ad-ab1a-c8e3fb01778c,csu.meme,premium,90.2,,medium,low,3,unstoppable,,,29/09/2026 09:33
 e67843bb-26ff-4f6e-8e10-e60127e80826,however.meme,available,10.55,10.55,medium,low,7,spaceship,,,28/09/2026 11:49
 b1a3a52c-c8cc-4b59-b08f-a40a532f8da4,dealer.meme,premium,845,845,high,low,6,namecheap,,,22/09/2026 05:35
 6fe37bc5-8b37-4ea0-84ff-2b41e3f152f0,bae.meme,premium,187.5,,high,low,3,name.com,,,
@@ -255,11 +264,11 @@ ff41de66-43f0-46b3-94c1-9372603a9c20,origen.meme,premium,65,65,high,low,6,namech
 e14976e8-c441-4681-8e1d-ee945b0567f2,afterwards.meme,available,12.98,15.98,medium,low,10,namecheap,,,
 3990ed76-265a-48c5-8e59-8d815a8f9873,scorn.meme,available,12.98,15.98,high,low,5,namecheap,,,24/09/2026 17:41
 895412fb-d3f9-4ecd-b0c8-90877b7b0c72,clouded.meme,available,12.98,15.98,medium,low,7,namecheap,,,12/08/2026 12:27
-b81c992f-e637-453d-a16c-8c91ccdc5193,broaden.meme,available,15.98,,high,low,7,namecheap,,,
+b81c992f-e637-453d-a16c-8c91ccdc5193,broaden.meme,available,10.55,10.55,high,low,7,spaceship,,,30/09/2026 16:22
 7927cf77-89b5-4541-80c4-8cc3a03b9499,goals.meme,premium,,,high,low,5,,,,28/09/2026 07:10
 11ab6b58-31e6-406b-bb14-b369903c591c,finding.meme,premium,195,195,high,low,7,namecheap,,,19/09/2026 14:57
 c6a51df1-a2b9-46f9-b451-14e52a0cee7e,consecrate.meme,available,12.98,15.98,high,low,10,namecheap,,,12/08/2026 22:25
-49fe0709-21db-4f87-a0f5-220eedc1c2b7,moonlight.meme,premium,112.5,,high,low,9,name.com,,,
+49fe0709-21db-4f87-a0f5-220eedc1c2b7,moonlight.meme,premium,93.35,93.35,high,low,9,spaceship,,,30/09/2026 05:14
 deab5e26-ede0-4f3f-b13c-e04ae765ebd6,soh.meme,premium,117,117,medium,low,3,namecheap,,,16/09/2026 03:36
 09579e33-36bf-4c55-a8df-6fd8d4bfdf1e,charioteer.meme,available,12.98,15.98,medium,low,10,namecheap,,,21/09/2026 04:25
 83e43079-b3fa-4c44-b47b-1f571cb04669,majors.meme,premium,65,65,high,low,6,namecheap,,,23/09/2026 14:46
@@ -272,13 +281,14 @@ de4d72e9-4214-4234-bbb1-7b2c31371833,saturn.meme,premium,,,high,low,6,,,,29/09/2
 97058902-7dbe-427c-89a4-5986e33a172b,laying.meme,premium,65,65,high,low,6,namecheap,,,25/09/2026 22:34
 c93545aa-1fd6-443b-908c-f9a476c0c5d9,asphodelus.meme,available,12.98,15.98,medium,low,10,namecheap,,,20/09/2026 15:09
 02b0877d-988e-43cc-93d1-ec21b3747e3d,randomised.meme,available,12.98,15.98,high,medium,10,namecheap,,,09/09/2026 10:15
+dde71907-c3a4-4ad6-982c-bbab8ba77ac8,housewives.meme,available,10.2,10.2,medium,low,10,cloudflare,,,30/09/2026 07:09
 5a9a81a1-2fe9-4f0b-b28c-e67bfdc6d7b4,alpena.meme,available,12.98,15.98,medium,low,6,namecheap,,,18/09/2026 13:31
 2d41fa34-8d48-40a1-a21e-5d89be3da958,adds.meme,premium,437.5,437.5,medium,low,4,name.com,,,18/09/2026 14:32
 80bc934e-6b4b-4079-9bb1-ec2eb040c40c,bipartisan.meme,available,12.98,15.98,high,low,10,namecheap,,,10/08/2026 04:32
 5817ad98-dad8-4f40-9f07-b827aba65319,incline.meme,available,10.2,10.2,high,low,7,cloudflare,,,29/09/2026 23:48
 313dfa26-516c-417e-aaab-cf3ca1cbd000,aperitif.meme,available,12.98,15.98,high,low,8,namecheap,,,19/09/2026 16:32
 5417d7ef-f2db-4414-a50b-c8a55d495c4f,mutual.meme,premium,195,195,high,low,6,namecheap,,,25/09/2026 22:40
-61fa97a5-26b9-4512-8a04-f66810d5c529,bestiary.meme,available,12.98,15.98,high,low,8,namecheap,,,23/09/2026 10:36
+61fa97a5-26b9-4512-8a04-f66810d5c529,bestiary.meme,available,12.98,15.98,medium,low,8,namecheap,,,23/09/2026 10:36
 c5596eb4-6610-4e77-98f7-dbac159484b6,congolese.meme,available,12.98,15.98,high,low,9,namecheap,,,12/08/2026 21:54
 edd8d466-8f99-4c91-ae80-fa1646adf661,impervious.meme,available,12.98,15.98,medium,low,10,namecheap,,,21/08/2026 22:19
 2e2782b4-76c7-421d-a1a6-1999ca4cd840,aftertaste.meme,available,12.98,15.98,high,low,10,namecheap,,,17/09/2026 15:52
@@ -286,7 +296,7 @@ edd8d466-8f99-4c91-ae80-fa1646adf661,impervious.meme,available,12.98,15.98,mediu
 f07b8c89-1dc5-4dba-8b47-926f0e787924,wain.meme,available,12.98,15.98,medium,low,4,namecheap,,,23/09/2026 14:30
 c5fa51c9-b859-44cc-898e-23c4e0c18fe6,coffeehousing.meme,available,12.98,15.98,medium,low,13,namecheap,,,20/09/2026 21:09
 724fc77c-969c-4a1b-9efc-8e8035e3835d,crawl.meme,premium,117,117,high,low,5,namecheap,,,21/09/2026 04:48
-f327cdb8-ba68-4c9c-a218-aa254890f646,byzantine.meme,available,12.98,15.98,high,low,9,namecheap,,,11/08/2026 12:12
+f327cdb8-ba68-4c9c-a218-aa254890f646,byzantine.meme,available,12.98,15.98,medium,low,9,namecheap,,,11/08/2026 12:12
 d951454a-6f8c-4d49-9132-5ef3c39ea2ba,nation.meme,premium,455,455,high,low,6,namecheap,,,29/09/2026 03:15
 b64850a1-d034-4239-af8b-683810c6bd8c,regionally.meme,available,12.98,15.98,medium,low,10,namecheap,,,15/09/2026 22:57
 682bbef3-2ee5-4c1a-a233-863d1a82b87a,maculate.meme,available,12.98,15.98,medium,low,8,namecheap,,,13/08/2026 23:26
@@ -298,9 +308,12 @@ facb11cd-3643-4659-9bce-130382f10241,spices.meme,premium,90.2,,medium,low,6,unst
 b48fc948-4fa3-459a-b8b2-050c9c9adb63,amberjack.meme,available,12.98,15.98,medium,low,9,namecheap,,,18/09/2026 16:35
 6b72242f-540f-47bc-87ed-fea0cf51b51c,denny.meme,available,12.98,15.98,high,low,5,namecheap,,,25/09/2026 15:22
 869ae2fe-f32c-4a03-bf0a-fc6cf721473a,fondly.meme,available,12.98,15.98,high,low,6,namecheap,,,14/09/2026 19:12
+9afb8167-23c4-4d04-bbc1-92cf7968b529,mullen.meme,available,10.2,10.2,medium,low,6,cloudflare,,,30/09/2026 03:34
 73ac16dd-19a9-4cd6-813c-01fd451b32d6,torrential.meme,available,12.98,15.98,medium,low,10,namecheap,,,11/09/2026 17:57
 032c8470-073b-4362-93bd-a3c591d55899,campanile.meme,available,12.98,15.98,high,medium,9,namecheap,,,23/09/2026 04:55
 e8faa067-efe1-42a4-aaa3-3e9516bb8199,felicity.meme,available,10.2,10.2,high,low,8,cloudflare,,,29/09/2026 12:15
+02eae29f-0ac0-437e-ae3d-3fa70f384d7c,cementing.meme,available,10.2,10.2,medium,low,9,cloudflare,,,30/09/2026 07:44
+a2562275-e84e-400d-9cb1-d1db61bca31c,hustler.meme,premium,50.2,,high,low,7,unstoppable,,,30/09/2026 17:21
 afbe6bc2-b69b-4cbb-8caf-4389df68de37,volunteers.meme,premium,117,117,high,low,10,namecheap,,,18/09/2026 01:21
 1c73470b-3ce8-4279-8b86-7ab68d4a7ad8,withal.meme,available,12.98,15.98,medium,low,6,namecheap,,,13/09/2026 18:51
 3b28c99c-6d7e-413a-961f-b7c949b52293,statuary.meme,available,12.98,15.98,medium,low,8,namecheap,,,10/09/2026 19:16
@@ -308,12 +321,12 @@ afbe6bc2-b69b-4cbb-8caf-4389df68de37,volunteers.meme,premium,117,117,high,low,10
 ff3995ac-3c64-4851-947e-bdc3c6b6088c,lights.meme,premium,437.5,,high,low,6,name.com,,,
 52d769a6-71f5-45fe-817f-6003406afd73,michelle.meme,premium,117,117,high,low,8,namecheap,,,25/09/2026 13:16
 73525261-d6b1-4353-b51d-433c9fa950f7,boost.meme,premium,672.95,672.95,high,medium,5,spaceship,,,29/09/2026 03:38
-641050a7-750a-4d15-a9d6-9c9800db0b7b,unchanging.meme,available,12.98,15.98,high,low,10,namecheap,,,12/09/2026 05:04
+641050a7-750a-4d15-a9d6-9c9800db0b7b,unchanging.meme,available,12.98,15.98,medium,low,10,namecheap,,,12/09/2026 05:04
 71c57933-19f0-40e5-87f5-71b6ac26e888,myth.meme,premium,93.35,93.35,high,low,4,spaceship,,,28/09/2026 02:27
 6d2e9f80-508b-41f3-b51c-252868db4aa6,commotion.meme,available,12.98,15.98,high,low,9,namecheap,,,24/09/2026 16:36
 4a3795b6-3f1d-427f-a573-e833c67a5a9d,mosaic.meme,premium,812.5,812.5,high,medium,6,name.com,,,25/08/2026 06:45
 6e191a42-b4c8-429c-8daa-3b5e09b699c0,betelgeuse.meme,available,12.98,15.98,medium,low,10,namecheap,,,18/09/2026 13:39
-c41815ae-e886-4e41-9036-110ab5050041,hollis.meme,premium,,,high,low,6,,,,28/09/2026 07:30
+c41815ae-e886-4e41-9036-110ab5050041,hollis.meme,premium,,,medium,low,6,,,,28/09/2026 07:30
 0ca82137-2aa7-45e6-b195-5ac4b2838c07,shannon.meme,premium,117,117,high,low,7,namecheap,,,25/09/2026 04:16
 71add250-ae87-4f39-b703-b191e0b0af6b,brad.meme,premium,187.5,187.5,high,low,4,name.com,,,24/09/2026 07:52
 eeb9ea9c-7ed9-4178-aac0-641249ec7842,ebony.meme,premium,112.5,112.5,high,low,5,name.com,,,14/08/2026 23:09
@@ -336,18 +349,22 @@ a67f50a0-84ca-4289-a19c-dd42861dfe63,otiose.meme,available,12.98,15.98,medium,lo
 54c3b8c0-7b34-49e9-8a22-9f4b70086660,marine.meme,premium,455,455,high,low,6,namecheap,,,25/09/2026 16:45
 46c9859f-f1c8-4589-b414-6dee845d48ed,slicker.meme,available,12.98,15.98,medium,low,7,namecheap,,,23/09/2026 02:58
 f565fe61-e988-4cf6-b766-cc674a9f74d7,errand.meme,available,10.2,10.2,high,low,6,cloudflare,,,30/09/2026 01:33
-26e08339-328a-4686-a138-d6f18ca95bb6,ghostly.meme,available,12.98,15.98,high,low,7,namecheap,,,06/08/2026 05:28
+26e08339-328a-4686-a138-d6f18ca95bb6,ghostly.meme,available,12.98,15.98,medium,low,7,namecheap,,,06/08/2026 05:28
 f233ac15-127f-4a93-9940-6065c4f97c15,persistent.meme,available,12.98,15.98,high,low,10,namecheap,,,14/08/2026 14:58
 cb3cfa92-a4b0-4ae6-a70d-3dcbd9299c20,scenes.meme,premium,65,65,medium,low,6,namecheap,,,18/09/2026 15:27
 f746cd43-c7de-49c8-9516-0a70064bf333,unguarded.meme,available,12.98,15.98,medium,low,9,namecheap,,,12/09/2026 11:39
+f1ed65cd-766c-4409-9837-72e35b11913c,ravens.meme,premium,51.95,51.95,medium,low,6,spaceship,,,30/09/2026 07:01
 589cbcc4-3d14-4e09-94ce-1be9a04cc5b2,acousma.meme,available,12.98,15.98,medium,low,7,namecheap,,,17/09/2026 02:29
 9ab5aaf1-80ae-4257-b39f-42160b57ddf8,farseeing.meme,available,12.98,15.98,medium,low,9,namecheap,,,14/08/2026 22:22
 2d2e6887-438c-44f7-a258-9447d90da8e6,spiritous.meme,available,12.98,15.98,medium,low,9,namecheap,,,10/09/2026 16:00
 f55ab0f0-e382-4a4a-ae75-5d9fd6db2fb0,taboo.meme,premium,112.5,112.5,high,low,5,name.com,,,18/08/2026 11:03
 0f16a218-221e-4e91-8538-3eeada2bd940,eggs.meme,premium,350.2,,high,low,4,unstoppable,,,29/09/2026 17:47
+5ed2b3e2-6046-4314-a51e-5dc7f558d787,eskimo.meme,premium,51.95,51.95,high,low,6,spaceship,,,30/09/2026 09:35
 3b02b58e-7c63-4208-ae23-50468a537db5,vhf.meme,premium,,,high,low,3,,,,28/09/2026 02:03
 3c5bb7c8-abbd-4af5-a9b6-84b740eaa7b5,taunt.meme,available,12.98,15.98,high,low,5,namecheap,,,11/09/2026 09:13
+30cf59b2-e890-4d84-94fc-cea3bbbcad91,rappahannock.meme,available,10.2,10.2,medium,low,12,cloudflare,,,30/09/2026 22:09
 ba952706-365b-4df4-b162-9fe4d5af72a6,phocine.meme,available,12.98,15.98,medium,low,7,namecheap,,,08/09/2026 18:58
+b1efbafa-ca7a-4619-92d6-0c4996f4646c,yugoslavia.meme,available,10.81,10.81,high,medium,10,porkbun,,,30/09/2026 09:36
 30061a31-f0a9-4120-b424-8802a8829594,concerts.meme,premium,65,65,high,low,8,namecheap,,,20/09/2026 13:34
 0d44d82a-2d66-48ec-a3d6-9c81fdee9fd1,hazard.meme,premium,187.5,,medium,low,6,name.com,,,28/09/2026 18:59
 5473489e-00cd-4c38-92f7-19eb80193d66,checklist.meme,premium,90.2,,high,low,9,unstoppable,,,29/09/2026 08:35
@@ -358,12 +375,14 @@ d136192b-7e43-4c49-ae32-0fc9b5083a8a,nonslip.meme,available,12.98,15.98,medium,l
 47a46e72-b23b-489b-8adc-731fcc2ae523,sinatra.meme,premium,51.95,51.95,high,low,7,spaceship,,,29/09/2026 18:57
 cd9ae2b7-f41f-48bc-a9d5-3e0b443441f0,diary.meme,premium,195,195,high,low,5,namecheap,,,24/09/2026 22:13
 ac8514a7-67a9-4d61-9e13-52123e48f50c,obliquity.meme,available,12.98,15.98,medium,low,9,namecheap,,,20/09/2026 18:47
+d030fbff-507c-41ac-9ddf-e7c69f075667,rawson.meme,available,14,,medium,low,6,unstoppable,,,30/09/2026 21:33
 a3b467c2-433e-43ae-91a7-7d5e2e30f19e,dysgenic.meme,available,12.98,15.98,low,low,8,namecheap,,,11/08/2026 12:30
 8b6136b9-d225-4291-91b4-577d87102e28,gracefully.meme,available,12.98,15.98,high,low,10,namecheap,,,14/09/2026 21:54
 41dd276a-f129-4685-a285-a358869a3dc9,bankrupt.meme,available,12.98,15.98,medium,low,8,namecheap,,,08/08/2026 13:29
 3a88d308-8788-4d7e-8103-3d5f1079ca1a,bagatelle.meme,available,12.98,15.98,high,low,9,namecheap,,,21/09/2026 17:53
 638f9eb8-0ec3-416a-8c0f-c39c20f5c21a,arm.meme,premium,455,455,high,medium,3,namecheap,,,28/09/2026 22:04
 5ffad004-94d3-49f2-851c-d90406d25a78,agdistis.meme,available,12.98,15.98,medium,low,8,namecheap,,,17/09/2026 16:43
+69f929fc-59f4-4022-afe5-ff54ef1cc175,linde.meme,premium,,,high,high,5,,,,01/10/2026 00:27
 1a7b4717-af71-4bba-9f52-cc57760ac9fa,lois.meme,premium,65,65,medium,low,4,namecheap,,,25/09/2026 15:30
 976492cd-53a1-4981-9ec7-5b240acd9e72,cupric.meme,available,12.98,15.98,medium,low,6,namecheap,,,13/08/2026 10:49
 f52aa98a-be68-4e7e-9b36-bd876dd8d7c5,offprint.meme,available,12.98,15.98,medium,low,8,namecheap,,,10/09/2026 03:57
@@ -378,9 +397,10 @@ f28ce864-6469-43a9-bb76-dc15c9f8945a,entranced.meme,available,12.98,15.98,medium
 0b9b1b11-ddfe-48bb-8fdf-1a102608830b,put.meme,premium,845,845,high,low,3,namecheap,,,25/09/2026 13:13
 0b876d15-7a83-4e34-84f2-40b93fc517a3,becoming.meme,premium,62.5,62.5,high,low,8,name.com,,,09/08/2026 06:08
 bb46f7ce-6e7a-4a03-94f9-8801b2fd1bf3,attested.meme,available,12.98,15.98,medium,low,8,namecheap,,,07/08/2026 15:41
+875433b5-7cbb-4336-ac45-9822f89617dc,repent.meme,available,10.55,10.55,high,low,6,spaceship,,,30/09/2026 10:57
 ee7f379f-69bc-46b5-b4e3-2b35f57a0318,beau.meme,premium,62.5,62.5,high,low,4,name.com,,,13/08/2026 17:13
 4cf1d996-7ebe-4f08-9012-0ed24c2dbe81,dilute.meme,available,12.98,15.98,high,low,6,namecheap,,,
-f789dd80-26ee-478f-8e7f-99e270aa4b01,obtuse.meme,available,12.98,15.98,high,low,6,namecheap,,,24/09/2026 12:17
+f789dd80-26ee-478f-8e7f-99e270aa4b01,obtuse.meme,available,12.98,15.98,medium,low,6,namecheap,,,24/09/2026 12:17
 7a701d63-20bb-48cd-bd5c-69c3b2bc4620,delusion.meme,available,12.98,15.98,high,low,8,namecheap,,,24/09/2026 21:45
 bb641561-8b31-4123-ba8a-4187eb64123e,visions.meme,premium,,,medium,low,7,,,,27/09/2026 23:41
 dbd52daf-d303-4289-b15a-b877d9e141c1,unlogical.meme,available,12.98,15.98,medium,low,9,namecheap,,,21/08/2026 20:07
@@ -392,7 +412,7 @@ c61a16b6-63e7-4051-bfc4-6712fc677acb,dialect.meme,available,10.2,10.2,high,low,7
 c5b1a1c0-2c98-4a6c-9697-731de82afee9,malt.meme,premium,62.5,62.5,high,low,4,name.com,,,24/08/2026 14:13
 d242c244-1022-41ac-85fa-257c773aebd6,moistly.meme,available,12.98,15.98,low,low,7,namecheap,,,14/09/2026 10:31
 4443eb14-4345-4bd4-b7e2-0415691bb8df,armoire.meme,available,12.98,15.98,medium,low,7,namecheap,,,20/09/2026 07:20
-c4f6b091-5dde-4302-862c-c3c5a74a5bbb,breathless.meme,available,12.98,15.98,high,low,10,namecheap,,,11/08/2026 03:23
+c4f6b091-5dde-4302-862c-c3c5a74a5bbb,breathless.meme,available,12.98,15.98,medium,low,10,namecheap,,,11/08/2026 03:23
 ae16040a-9191-4c7e-871d-09bbcfcd53f8,lori.meme,premium,55.11,55.11,medium,low,4,porkbun,,,28/09/2026 12:05
 ef43fa0a-5c1d-478d-a2b2-69fdb5e93d55,transitions.meme,available,15.98,,medium,low,11,namecheap,,,
 25f32640-7b6d-4ecb-a8b7-1d690a6131ea,emporium.meme,premium,51.95,51.95,high,low,8,spaceship,,,29/09/2026 02:36
@@ -419,11 +439,12 @@ fc0bc9c3-0fa5-4d19-bad6-ded02e049f7d,moveable.meme,available,12.98,15.98,high,lo
 fffad655-0a32-4937-b05c-76fe1a32629d,needless.meme,available,12.98,15.98,medium,low,8,namecheap,,,03/09/2026 14:55
 28704f15-aad8-4a60-9b62-5b67e60b5984,finitely.meme,available,12.98,15.98,medium,low,8,namecheap,,,14/09/2026 18:35
 6d9f4f21-b7a0-4167-88fa-493d6f428394,acinonyx.meme,available,12.98,15.98,medium,low,8,namecheap,,,17/09/2026 01:31
+a8fc363f-0dea-4efe-af23-fb61cf32460a,ocs.meme,premium,93.35,93.35,high,low,3,spaceship,,,30/09/2026 13:05
 1763f30b-711f-4df6-ae8a-84bae2725b6a,autobahn.meme,available,12.98,15.98,high,low,8,namecheap,,,21/09/2026 05:50
 54a34971-624f-42cd-be0e-e8a8cbd0e8f7,overfond.meme,available,12.98,15.98,medium,low,8,namecheap,,,04/09/2026 20:35
 e2519f04-1d5a-4be5-b699-0ef800d90958,seniors.meme,premium,150.2,,medium,low,7,unstoppable,,,29/09/2026 05:13
 b6867e4a-454e-4fed-814f-b60880aa4bf8,ppp.meme,premium,93.35,93.35,high,low,3,spaceship,,,28/09/2026 06:33
-ae9905f5-cfb7-427c-8df7-2342418e90ea,spin.meme,premium,812.5,,high,low,4,name.com,,,
+ae9905f5-cfb7-427c-8df7-2342418e90ea,spin.meme,premium,672.95,672.95,high,low,4,spaceship,,,30/09/2026 11:43
 8cfa7b30-30f4-4bc2-97aa-187f4e8fd133,laurent.meme,premium,117,117,medium,low,7,namecheap,,,27/09/2026 09:55
 853ae7be-3f66-447e-a7fb-82b22b635456,arrack.meme,available,12.98,15.98,medium,low,6,namecheap,,,19/09/2026 23:47
 bbecbde1-98ec-4cac-9d39-adfa8b9acd4b,sharon.meme,premium,195,195,high,low,6,namecheap,,,27/09/2026 06:30
@@ -448,14 +469,14 @@ eea857a2-6b8a-4344-bf69-38a6f2534745,bliss.meme,premium,437.5,437.5,high,medium,
 4e57306f-6029-4c79-a596-906707082b0a,plainly.meme,available,12.98,15.98,high,low,7,namecheap,,,08/09/2026 20:28
 08bdeda7-155d-4157-a253-dcb68ac33407,frowning.meme,available,12.98,15.98,medium,low,8,namecheap,,,18/08/2026 16:40
 61703928-4a9a-4f90-a243-8f604cafec81,angelim.meme,available,12.98,15.98,medium,low,7,namecheap,,,19/09/2026 03:59
-4a7dddd0-a0ec-4f90-94e6-0c81bbb3306e,hamm.meme,available,10.55,10.55,high,low,4,spaceship,,,29/09/2026 21:55
+4a7dddd0-a0ec-4f90-94e6-0c81bbb3306e,hamm.meme,available,10.55,10.55,medium,low,4,spaceship,,,29/09/2026 21:55
 ce88151d-17ca-489f-8e46-18faca1c7773,crooked.meme,available,12.98,15.98,medium,low,7,namecheap,,,13/08/2026 07:51
 62cb1b0d-29c0-4dad-b740-e2881d2ac376,slickly.meme,available,12.98,15.98,medium,low,7,namecheap,,,14/09/2026 21:36
 6267df4c-9952-4a6f-a470-588b93cbe843,seminal.meme,available,12.98,15.98,high,low,7,namecheap,,,18/08/2026 22:51
 4b8d3509-6f80-4d83-b160-1d0f28c3bab2,cabins.meme,premium,117,117,medium,low,6,namecheap,,,20/09/2026 12:16
 66729cef-f361-4a02-880d-2398a942dd5f,avenged.meme,available,12.98,15.98,high,low,7,namecheap,,,07/08/2026 22:35
-be20a4e1-cf86-443d-a6f6-64578efec847,toned.meme,available,12.98,15.98,high,low,5,namecheap,,,11/09/2026 17:02
-ee8e204f-4f88-444f-bfe8-6d2978869960,engineers.meme,premium,117,117,high,low,9,namecheap,,,28/09/2026 04:20
+be20a4e1-cf86-443d-a6f6-64578efec847,toned.meme,available,12.98,15.98,medium,low,5,namecheap,,,11/09/2026 17:02
+ee8e204f-4f88-444f-bfe8-6d2978869960,engineers.meme,premium,90.2,117,high,low,9,unstoppable,,,30/09/2026 21:06
 a26a0ce6-376a-4088-b192-e455556f013d,unsealed.meme,available,12.98,15.98,medium,low,8,namecheap,,,12/09/2026 19:07
 dccaa611-93b5-4427-9e68-cc87c2bf540b,barkeep.meme,available,12.98,15.98,high,low,7,namecheap,,,22/09/2026 06:22
 893a872a-f4a1-46b9-9091-02cb4de12add,ripping.meme,available,12.98,15.98,high,low,7,namecheap,,,09/09/2026 13:59
@@ -474,12 +495,14 @@ f91cedab-cf08-4e66-b112-836a57df0295,consumer.meme,premium,155.45,155.45,high,lo
 da935316-102b-4903-b891-bfa403db8775,noticeably.meme,available,12.98,15.98,medium,low,10,namecheap,,,15/09/2026 16:56
 417eafb6-6d50-40e6-a248-00c0c3c29902,favourable.meme,available,12.98,15.98,high,low,10,namecheap,,,24/09/2026 17:24
 62e67784-ee64-4e77-85d8-8f4850b0e1c0,audubon.meme,available,12.98,15.98,medium,low,7,namecheap,,,21/09/2026 03:14
-cde81735-0705-474a-9d3c-f1413140cc1c,crockett.meme,available,10.2,10.2,high,low,8,cloudflare,,,28/09/2026 01:43
+113cbd6c-f77c-473c-a83f-355793f8e3ae,storylines.meme,available,10.2,10.2,medium,low,10,cloudflare,,,01/10/2026 00:32
+cde81735-0705-474a-9d3c-f1413140cc1c,crockett.meme,available,10.2,10.2,medium,low,8,cloudflare,,,28/09/2026 01:43
+f483b426-6037-497f-b4e8-ad1c15f9a287,iras.meme,available,10.55,10.55,high,low,4,spaceship,,,30/09/2026 22:23
 c6e57986-c177-4671-bcc7-74508b8485e4,icelandic.meme,available,12.98,15.98,high,low,9,namecheap,,,21/08/2026 17:45
 63dd03e1-8362-41e1-82f3-3786bc0f6077,eventful.meme,available,12.98,15.98,high,low,8,namecheap,,,12/08/2026 22:36
 3132ab89-21cb-4886-9242-f2dc4e3ab251,produce.meme,premium,164.27,164.27,high,low,7,porkbun,,,29/09/2026 20:43
 dd1a6d30-726d-41e9-832f-d7e3feeac20e,phrasal.meme,available,12.98,15.98,high,medium,7,namecheap,,,08/09/2026 19:19
-3d85949e-cefc-4c87-9c55-ee46bbb00e52,solution.meme,premium,187.5,,high,low,8,name.com,,,
+3d85949e-cefc-4c87-9c55-ee46bbb00e52,solution.meme,premium,155.45,155.45,high,low,8,spaceship,,,30/09/2026 11:31
 0d99a23b-8355-45b6-bd04-7ba5194bd3ce,gourmet.meme,premium,195,195,high,low,7,namecheap,,,24/09/2026 14:33
 277c404e-a058-4a2c-88d4-95f97cef51c5,vividly.meme,available,12.98,15.98,high,low,7,namecheap,,,16/09/2026 11:06
 3b0f72a6-333d-4204-8808-65021943b46e,revokable.meme,available,12.98,15.98,medium,low,9,namecheap,,,09/09/2026 16:23
@@ -487,14 +510,14 @@ ac1dbdca-11b9-4150-9960-197dd10ad8c3,dispensary.meme,available,12.98,15.98,high,
 c00021b4-e53e-4092-95fc-ed21f224f30f,kidnapper.meme,available,12.98,15.98,medium,low,9,namecheap,,,16/09/2026 14:52
 a8de89e0-85d4-42f2-affa-6d3bbf903d05,natchez.meme,available,10.2,10.2,high,low,7,cloudflare,,,28/09/2026 14:57
 50b07f0d-d0d3-4439-a9de-abf443f86af5,playhouse.meme,premium,51.95,51.95,high,low,9,spaceship,,,29/09/2026 02:35
-3c41c92b-93dd-43ae-9035-f20ed3814e1d,ensure.meme,premium,437.5,,high,low,6,name.com,,,
+3c41c92b-93dd-43ae-9035-f20ed3814e1d,ensure.meme,premium,382.61,382.61,high,low,6,porkbun,,,30/09/2026 15:26
 80dfaa4c-b088-4b0d-aa33-82b17848e1fe,status.meme,premium,812.5,,high,medium,6,name.com,,,29/09/2026 10:39
 e8e021aa-0ec8-441e-97d9-37a1ba2f7a35,square.meme,premium,112.5,112.5,high,medium,6,name.com,,,19/09/2026 16:04
 ebf23c14-a0bb-4634-ba7a-0feeab9f1bce,pinnacle.meme,premium,62.5,62.5,high,low,8,name.com,,,24/08/2026 20:50
 35f334e8-ce81-429a-910d-484b2e4231d0,worked.meme,premium,62.5,,high,low,6,name.com,,,
 9039ff99-c421-4fd8-ab78-ac3aa1d5c935,amanita.meme,available,12.98,15.98,medium,low,7,namecheap,,,18/09/2026 15:43
 7e66a955-88e5-4077-a6e9-02284ff6db19,paid.meme,premium,812.5,812.5,high,low,4,name.com,,,18/08/2026 19:32
-25f81a71-c416-44c4-b540-c00662237e4b,trophy.meme,premium,187.5,,high,low,6,name.com,,,
+25f81a71-c416-44c4-b540-c00662237e4b,trophy.meme,premium,187.5,,high,low,6,name.com,,,30/09/2026 13:59
 d6006dbc-574a-4d98-9d6d-40f718d24b50,opalescent.meme,available,12.98,15.98,medium,low,10,namecheap,,,04/09/2026 15:43
 05d419bd-e80a-4785-83b9-ae4d8154b9ca,programmer.meme,premium,90.2,,high,low,10,unstoppable,,,29/09/2026 06:24
 f59e9a6e-6d7c-4ddb-9326-8a8e62695258,stadia.meme,available,18.99,18.99,high,low,6,name.com,,,17/09/2026 09:03
@@ -510,21 +533,23 @@ d860096c-8337-46be-b090-f1d844aa0a61,inca.meme,premium,62.5,62.5,high,low,4,name
 16e7aba7-abee-4a64-aafc-9542970eaad6,osceola.meme,available,10.2,10.2,high,low,7,cloudflare,,,29/09/2026 22:43
 8fc8f4cc-7945-4071-b65a-0ca0ead25ba7,deniable.meme,available,12.98,15.98,medium,low,8,namecheap,,,14/08/2026 01:50
 7683148c-3259-4c2a-b6fe-539dfc11f656,rebellion.meme,available,10.55,10.55,high,low,9,spaceship,,,30/09/2026 00:15
-51df0bc2-33b2-4bc8-8e66-041905fa4e42,underestimate.meme,available,15.98,,high,low,13,namecheap,,,
+51df0bc2-33b2-4bc8-8e66-041905fa4e42,underestimate.meme,available,15.98,,medium,low,13,namecheap,,,
 e41d6795-aa0f-4a26-8443-fc386a8ce5f9,related.meme,premium,195,195,high,low,7,namecheap,,,19/09/2026 12:07
 6a758f6b-0746-44f7-8a85-ef1ed82c3cb1,auricula.meme,available,12.98,15.98,medium,low,8,namecheap,,,21/09/2026 04:20
 0ea2320c-9637-425c-a3a9-a81b0311f1ec,dumped.meme,available,12.98,15.98,low,low,6,namecheap,,,27/09/2026 03:17
+112934f5-6d98-4dd3-8f23-b84590c66261,tyndall.meme,available,10.55,10.55,medium,low,7,spaceship,,,30/09/2026 17:44
 0ba56c34-7b48-4662-94b9-92e0ebdc8bc5,angler.meme,premium,65,65,high,low,6,namecheap,,,18/09/2026 11:39
 4412b227-5cf0-400c-aefc-54c754adf133,lumpen.meme,available,12.98,15.98,medium,low,6,namecheap,,,24/08/2026 11:14
 27bfa597-ea5b-45e3-9e42-fbfb5be28510,tits.meme,premium,155.45,155.45,high,low,4,spaceship,,,29/09/2026 21:14
 981ac13f-20a7-4658-925e-1a58d32f7af6,polished.meme,available,12.98,15.98,high,low,8,namecheap,,,24/08/2026 23:10
 dbae8f13-3a68-4bd2-8684-838de0d2eae7,hasten.meme,available,12.98,15.98,medium,low,6,namecheap,,,09/09/2026 19:47
+5f704251-7f5c-4694-8bc3-11df90d8693d,hounds.meme,available,10.2,10.2,medium,low,6,cloudflare,,,30/09/2026 22:40
 113056e3-607d-4df9-a816-49ab1855726b,blended.meme,premium,62.5,62.5,high,low,7,name.com,,,10/08/2026 14:14
-61b19a34-0be2-4a52-91d6-07cb5718d4dc,nuisance.meme,available,10.2,10.2,high,low,8,cloudflare,,,29/09/2026 19:51
+61b19a34-0be2-4a52-91d6-07cb5718d4dc,nuisance.meme,available,10.2,10.2,medium,low,8,cloudflare,,,29/09/2026 19:51
 e289eb3c-ba45-47ff-a2c3-8645a64a6f08,carpetbag.meme,available,12.98,15.98,medium,low,9,namecheap,,,11/08/2026 19:44
 6baf723d-fe47-4544-8268-d861f7e4c36d,rhyme.meme,available,10.55,10.55,high,low,5,spaceship,,,28/09/2026 15:15
 eee69522-4b14-4301-8e0d-87c833251823,frank.meme,premium,845,845,high,medium,5,namecheap,,,08/09/2026 05:07
-a5c9efc6-177a-41ce-af1d-210e7fffc4c6,ontogeny.meme,available,12.98,15.98,high,low,8,namecheap,,,20/08/2026 20:29
+a5c9efc6-177a-41ce-af1d-210e7fffc4c6,ontogeny.meme,available,12.98,15.98,medium,low,8,namecheap,,,20/08/2026 20:29
 132c29c0-9028-450f-aa1f-c421d059e299,scotland.meme,premium,155.45,155.45,high,low,8,spaceship,,,27/09/2026 15:44
 80379d8e-fa15-434c-a046-81e8cad51ef1,dolphin.meme,premium,195,195,high,low,7,namecheap,,,24/09/2026 23:22
 975a3d51-b362-435e-8f73-7b77c403aea2,auckland.meme,premium,117,117,high,low,8,namecheap,,,21/09/2026 02:39
@@ -543,6 +568,7 @@ c231ad32-f64c-4451-80ea-c918ff1aa337,arena.meme,premium,845,845,high,medium,5,na
 7b1b0f5a-7712-4afd-9b3e-0aea92e70bba,cornerstone.meme,available,10.2,10.2,high,low,11,cloudflare,,,29/09/2026 14:29
 a9f62136-f49c-4cbe-968a-8861d0a66aad,absorb.meme,premium,65,65,high,low,6,namecheap,,,10/09/2026 19:56
 9a3658d7-7dce-4819-a4b8-43792d0721a1,dancers.meme,premium,65,65,high,low,7,namecheap,,,20/09/2026 05:50
+1f7db30c-d61d-44f4-8f4d-493f258fd24b,robison.meme,available,10.2,10.2,medium,low,7,cloudflare,,,30/09/2026 21:35
 120d9636-3a29-4f5c-8e42-2d0487dd4f84,aerolite.meme,available,12.98,15.98,medium,low,8,namecheap,,,17/09/2026 13:06
 4ab44d1b-4ef5-439d-8986-6455d457b595,leathery.meme,available,12.98,15.98,medium,low,8,namecheap,,,13/08/2026 01:13
 fcd18872-9b18-438e-9248-ad937e3a4f71,amerind.meme,available,12.98,15.98,high,low,7,namecheap,,,
@@ -562,10 +588,12 @@ a0adf4d9-11a1-4741-a7c8-b6c9c03cb594,workout.meme,premium,98.77,98.77,high,low,7
 73d5fe45-a1b3-4e9d-ba4d-fd2774c7d3b2,brightly.meme,available,12.98,15.98,high,low,8,namecheap,,,11/08/2026 04:04
 6db52b6e-4632-4ddb-b86c-0a71491df18a,leyte.meme,available,14,,medium,low,5,unstoppable,,,29/09/2026 01:34
 ca8a8ee1-3125-4f3b-8b01-0c85b03fd169,urgent.meme,premium,195,195,high,low,6,namecheap,,,27/09/2026 06:05
-b833e9af-6a34-4f7c-b49c-9b00913ea7bb,etch.meme,premium,62.5,,high,low,4,name.com,,,
+28860ff1-ccea-4d97-80d6-59545b04501c,commute.meme,premium,65,65,high,low,7,namecheap,,,30/09/2026 09:14
+b833e9af-6a34-4f7c-b49c-9b00913ea7bb,etch.meme,premium,50.2,,high,low,4,unstoppable,,,30/09/2026 19:14
 afc34e1d-f4cb-4dbc-ae83-3bbb2a3a02fb,lewis.meme,premium,455,455,high,low,5,namecheap,,,25/09/2026 03:55
+ed79b3b6-ea64-44fa-b462-5873b06d8331,astros.meme,available,10.55,10.55,high,medium,6,spaceship,,,30/09/2026 15:11
 740fafc1-8ca8-4b26-a069-97e484c3ea96,tirelessly.meme,available,12.98,15.98,high,low,10,namecheap,,,15/09/2026 07:50
-9eeab6e9-3db8-4bf4-b052-2a9f7415c24f,acquisition.meme,premium,93.35,93.35,high,low,11,spaceship,,,28/09/2026 05:29
+9eeab6e9-3db8-4bf4-b052-2a9f7415c24f,acquisition.meme,premium,93.35,93.35,high,low,11,spaceship,,,01/10/2026 03:39
 46a1db85-53cc-4cf0-ab5c-a34a6eb5a976,penning.meme,available,12.98,15.98,medium,low,7,namecheap,,,21/09/2026 05:27
 a4edde70-9a21-4601-8dec-49cf7c6eb8c6,axletree.meme,available,12.98,15.98,medium,low,8,namecheap,,,21/09/2026 10:27
 879faaad-0cec-4967-88ea-e5314ccd6b00,providing.meme,premium,51.95,51.95,high,low,9,spaceship,,,28/09/2026 07:19
@@ -578,9 +606,10 @@ ebe6c169-fc10-433a-9d5d-8a3548260308,rationed.meme,available,12.98,15.98,high,me
 de4b0105-bda5-4e6f-8fd5-26b1dbc9d12e,unhindered.meme,available,12.98,15.98,medium,low,10,namecheap,,,12/09/2026 11:55
 44b13706-92db-463b-b764-36b43f55d1c4,sexuality.meme,premium,50.2,,high,low,9,unstoppable,,,28/09/2026 10:54
 08743132-c532-4e19-9168-e01ce4715381,presently.meme,available,10.55,10.55,medium,low,9,spaceship,,,28/09/2026 13:26
-fcd15bce-4c9c-4464-83db-05526608ca6f,tantrik.meme,available,12.98,15.98,high,low,7,namecheap,,,11/09/2026 08:07
+fcd15bce-4c9c-4464-83db-05526608ca6f,tantrik.meme,available,12.98,15.98,medium,low,7,namecheap,,,11/09/2026 08:07
 9f2beae5-aa01-4cc0-a6c5-fb84def29434,platte.meme,available,10.55,10.55,high,low,6,spaceship,,,28/09/2026 02:56
 4a353f20-98db-4c17-bae9-5249aa30df8e,beaver.meme,premium,117,117,high,low,6,namecheap,,,22/09/2026 22:29
+ce956e28-c934-4cee-8e62-3581184827d6,palmas.meme,available,10.55,10.55,high,low,6,spaceship,,,30/09/2026 12:52
 938e14d7-bee8-4b62-a069-94fc8711ba11,mixer.meme,premium,195,195,high,medium,5,namecheap,,,10/09/2026 13:09
 8cae2e5a-f096-46a6-b210-56e48813c104,correlate.meme,available,12.98,15.98,high,low,9,namecheap,,,23/09/2026 23:49
 e0aee854-994e-4003-a794-4dc9941e39f1,packing.meme,premium,195,195,high,low,7,namecheap,,,29/09/2026 00:21
@@ -590,23 +619,27 @@ d425b9b8-8717-47c2-b5b7-ff8ae429ba03,likable.meme,available,12.98,15.98,high,low
 37e56bd1-a94a-4123-8356-42bda551c52f,bandeau.meme,available,12.98,15.98,medium,low,7,namecheap,,,22/09/2026 01:04
 3bce110b-0e26-4ee8-8b17-4d6fbaee6802,attester.meme,available,12.98,15.98,medium,low,8,namecheap,,,21/09/2026 01:41
 c4af51d8-431a-4e3d-b54f-2dd8308d33a0,aventurine.meme,available,12.98,15.98,medium,low,10,namecheap,,,21/09/2026 09:07
+a415bd80-709d-429c-8702-09e0aeaabaf2,thermometer.meme,available,12.98,15.98,high,low,11,namecheap,,,30/09/2026 03:20
+3e1a6edb-9cdb-4d55-99ae-325a96f2daab,downes.meme,available,10.81,10.81,medium,low,6,porkbun,,,30/09/2026 05:25
 7604bba4-6172-438d-9e9f-64f584c8ad7d,backspin.meme,available,12.98,15.98,high,low,8,namecheap,,,21/09/2026 16:02
 6411e272-b4f1-407e-9a70-cfbbcad90262,nutriment.meme,available,12.98,15.98,medium,low,9,namecheap,,,18/09/2026 07:52
 baea27d2-b56f-4ee9-9f87-fb7c3e688a65,rheumatic.meme,available,12.98,15.98,medium,low,9,namecheap,,,06/08/2026 23:05
 8843d635-7ba3-4cd7-ade4-9fafa145feb8,peacefully.meme,available,12.98,15.98,high,low,10,namecheap,,,15/09/2026 19:23
-56ae36d6-d308-4f0f-97cc-e3451f42257f,tanks.meme,premium,187.5,,high,low,5,name.com,,,
+56ae36d6-d308-4f0f-97cc-e3451f42257f,tanks.meme,premium,164.27,164.27,high,low,5,porkbun,,,01/10/2026 02:18
 578176d1-6880-4185-a41c-525b5f57a648,louse.meme,available,12.98,15.98,medium,low,5,namecheap,,,23/09/2026 20:00
 9ef2b8ff-3a51-42b8-83d5-455e34954eee,toetoe.meme,available,12.98,15.98,medium,low,6,namecheap,,,20/09/2026 12:22
 b495034c-596e-4f68-bfc4-0b7614e0a051,objects.meme,premium,187.5,,medium,low,7,name.com,,,
 92fe1a32-181f-4ecb-ad6d-e8dc90d9dbbb,desktops.meme,available,12.98,15.98,medium,low,8,namecheap,,,20/09/2026 12:27
 a690f59c-58f9-4818-ab81-0c9a805ddb3a,notability.meme,available,12.98,15.98,high,low,10,namecheap,,,03/09/2026 22:04
 b957bce1-6278-462c-8054-0921e00c5bea,luculent.meme,available,12.98,15.98,medium,low,8,namecheap,,,24/08/2026 10:52
-ef285112-0c6c-4139-91f4-d2990ed0a33d,men.meme,premium,437.5,,high,low,3,name.com,,,
+ef285112-0c6c-4139-91f4-d2990ed0a33d,men.meme,premium,362.45,362.45,high,low,3,spaceship,,,30/09/2026 03:48
 bed8e983-bf64-4f81-aced-c54be693c6d3,janice.meme,premium,51.95,51.95,high,low,6,spaceship,,,27/09/2026 19:53
 9aec887d-db80-436f-8764-6f0921c2d3b1,presto.meme,premium,117,117,high,medium,6,namecheap,,,09/09/2026 01:44
 a59b41b4-92d3-42f1-8f3a-98a98f47820d,keno.meme,premium,65,65,high,low,4,namecheap,,,22/09/2026 20:42
+fd0f8a9c-ea1b-4bb3-b711-d568705579dc,carts.meme,premium,51.95,51.95,medium,low,5,spaceship,,,30/09/2026 07:03
 42f76239-e224-4b99-8150-de86bb6bb58d,twofold.meme,available,12.98,15.98,medium,low,7,namecheap,,,14/08/2026 16:39
-d12b1c7d-1997-4999-aa55-3fa997e70c2c,drowning.meme,available,10.2,10.2,high,low,8,cloudflare,,,27/09/2026 17:38
+a91a82aa-73b9-4ac9-9400-1779ae6d6dea,shopper.meme,premium,90.2,,high,low,7,unstoppable,,,01/10/2026 02:32
+d12b1c7d-1997-4999-aa55-3fa997e70c2c,drowning.meme,available,10.2,10.2,medium,low,8,cloudflare,,,27/09/2026 17:38
 3ce4a3e1-5867-43ab-846f-59fd0971378e,hillary.meme,premium,117,117,high,low,7,namecheap,,,27/09/2026 03:48
 683b5eda-ff45-4fb6-8ef9-84dd3cefa209,unsparing.meme,available,12.98,15.98,medium,low,9,namecheap,,,22/08/2026 21:11
 dd9f7b76-ffbe-434c-8281-0238e9c56610,operate.meme,premium,117,117,high,low,7,namecheap,,,25/09/2026 06:12
@@ -614,12 +647,14 @@ dd9f7b76-ffbe-434c-8281-0238e9c56610,operate.meme,premium,117,117,high,low,7,nam
 05d74b89-aeb7-4f40-8056-f99ac1bf6f59,sponsored.meme,premium,93.35,93.35,medium,low,9,spaceship,,,29/09/2026 10:41
 31a2c753-2749-4915-84c7-907f7cd82c0f,unpatented.meme,available,12.98,15.98,medium,low,10,namecheap,,,12/09/2026 16:29
 6e229810-9670-49e6-a2ce-24e03566ab20,battue.meme,available,12.98,15.98,medium,low,6,namecheap,,,22/09/2026 16:30
+b7238478-35fd-4b9f-a2a9-c5e7c78d6d4a,intimidating.meme,available,10.55,10.55,medium,low,12,spaceship,,,30/09/2026 19:45
 8d402766-3c4c-4d78-8f44-83d4a8a2ddeb,andira.meme,available,12.98,15.98,medium,low,6,namecheap,,,19/09/2026 04:05
 a8731cc6-8d30-4b0c-9bb8-43b92b4c7f94,chard.meme,available,12.98,15.98,medium,low,5,namecheap,,,23/09/2026 10:59
 d4d6be75-e3a5-4201-b2bc-5647c4cc641c,capturing.meme,available,10.55,10.55,medium,low,9,spaceship,,,29/09/2026 16:31
 e551ce3a-2ded-4be8-8676-8590cf0e9c2b,convexly.meme,available,12.98,15.98,medium,low,8,namecheap,,,14/09/2026 08:39
 2e0288b1-7e35-471b-926f-e613dccfa0cd,ratified.meme,available,12.98,15.98,high,medium,8,namecheap,,,09/09/2026 10:33
 64f76801-871e-428f-81c0-bfe656f7f737,curtin.meme,available,12.98,15.98,medium,low,6,namecheap,,,29/09/2026 09:07
+20e39ae1-25e9-4dea-8473-00285b7aac7b,marylebone.meme,available,10.81,10.81,medium,low,10,porkbun,,,30/09/2026 14:03
 05a055f7-4a79-4fb7-8d05-e05895feb60f,snakes.meme,premium,117,117,high,low,6,namecheap,,,27/09/2026 06:49
 a5a50731-7d1f-4856-af1f-e2b4039d7d30,opined.meme,available,12.98,15.98,low,low,6,namecheap,,,28/09/2026 09:10
 e262a792-f68c-48a7-9418-1c8b9ca63e9d,swelling.meme,available,12.98,15.98,high,low,8,namecheap,,,24/09/2026 11:05
@@ -631,20 +666,22 @@ ed8289ae-db34-4b8d-b398-912e008fd1c5,pianistic.meme,available,12.98,15.98,high,m
 906c0e05-2a43-4ee0-b0d7-36a716880ba1,bed.meme,premium,362.45,362.45,high,low,3,spaceship,,,29/09/2026 01:46
 3af83bef-354d-4bb6-b292-65d9b243594a,migraine.meme,available,14,,high,low,8,unstoppable,,,30/09/2026 01:52
 7cd67246-17d3-4672-9bf6-f333d7c658ab,misgiving.meme,available,12.98,15.98,medium,low,9,namecheap,,,24/09/2026 23:11
+230d49de-d0f4-4bb2-84da-7805d97124d6,manufacturers.meme,premium,50.2,,medium,low,13,unstoppable,,,30/09/2026 15:14
 436a8806-6782-4f3e-bd6e-c38738f7c621,mcc.meme,premium,117,117,high,low,3,namecheap,,,27/09/2026 20:35
 70529735-8bfb-411e-bf87-ff216ed9c626,occluded.meme,available,12.98,15.98,medium,low,8,namecheap,,,04/09/2026 00:12
+86a71c87-34db-41b3-910e-a3b2eb721648,kagan.meme,available,12.98,15.98,medium,low,5,namecheap,,,30/09/2026 12:34
 03ce191a-a1ef-4221-b0c0-2eb60eb2289d,astronomy.meme,premium,117,117,high,low,9,namecheap,,,20/09/2026 18:10
 fe3486da-dbc9-42a5-b089-817e20117e06,swiftly.meme,available,10.2,10.2,high,low,7,cloudflare,,,28/09/2026 14:53
 341595ce-1918-4c05-b8d3-0b8113408aa7,standardize.meme,available,15.98,,high,low,11,namecheap,,,
 41b0b5ab-7d19-4e80-ab58-7190a4ea41e8,brett.meme,premium,98.77,98.77,high,low,5,porkbun,,,28/09/2026 07:03
-aa556b19-c411-4f1c-aff7-7d45d4779494,pappa.meme,available,12.98,15.98,high,low,5,namecheap,,,08/09/2026 23:42
+aa556b19-c411-4f1c-aff7-7d45d4779494,pappa.meme,available,12.98,15.98,medium,low,5,namecheap,,,08/09/2026 23:42
 470ebe6d-4ec7-4f4b-8b2a-858755b74331,chaparral.meme,available,12.98,15.98,medium,low,9,namecheap,,,10/09/2026 00:21
 29016608-e424-4a98-854f-cd5895f487ac,fraser.meme,premium,350.2,,high,medium,6,unstoppable,,,29/09/2026 17:49
 60d932ac-c932-4c4d-8d59-9649dd770819,lavatory.meme,available,12.98,15.98,high,low,8,namecheap,,,09/09/2026 02:14
 5d600be5-0525-4c0c-9af1-044c85d1ad40,termed.meme,available,12.98,15.98,medium,low,6,namecheap,,,19/09/2026 00:21
 8d9c0b1d-71c0-4ffd-8cc3-d78907dad0ed,decreasing.meme,available,12.98,15.98,medium,low,10,namecheap,,,13/08/2026 22:12
 94fffbed-3bd1-46f4-ac98-37af595c5b99,sonia.meme,premium,98.77,98.77,high,low,5,porkbun,,,28/09/2026 03:44
-35246a14-6359-409f-8624-75795a917e75,latrobe.meme,available,12.98,15.98,high,low,7,namecheap,,,23/09/2026 08:20
+35246a14-6359-409f-8624-75795a917e75,latrobe.meme,available,12.98,15.98,medium,low,7,namecheap,,,23/09/2026 08:20
 3320de4a-5a3e-4449-8625-84363b590a91,abidance.meme,available,12.98,15.98,medium,low,8,namecheap,,,16/09/2026 15:33
 892a1606-34a9-48fa-aa03-b7484ae596ad,invaders.meme,available,14,,medium,low,8,unstoppable,,,30/09/2026 00:36
 800db0f8-7d1b-484d-8452-0159d8ef98ae,crooner.meme,available,18.99,18.99,high,low,7,name.com,,,21/09/2026 22:42
@@ -655,21 +692,23 @@ c794758e-6527-429d-a25f-37c45df8f4ea,swords.meme,premium,62.5,,medium,low,6,name
 338c65f8-f765-49b4-afec-866c1b62b671,erratic.meme,available,12.98,15.98,high,low,7,namecheap,,,17/08/2026 12:46
 c0746759-d588-4607-8f63-af93b92a1fae,slippery.meme,available,12.98,15.98,medium,low,8,namecheap,,,10/09/2026 11:01
 421fc4ca-5733-45e8-b506-c4a127bbec03,ambystoma.meme,available,12.98,15.98,medium,low,9,namecheap,,,18/09/2026 17:36
+6d6595ac-374a-4765-b960-61a68ff5d169,slopes.meme,available,10.55,10.55,medium,low,6,spaceship,,,30/09/2026 07:04
 7714c9f2-b392-4b54-a1de-71df5bd6f352,kempt.meme,available,12.98,15.98,medium,low,5,namecheap,,,22/08/2026 15:32
 a40ec342-b2e7-419a-ab97-a0e269077309,worship.meme,premium,117,117,high,low,7,namecheap,,,17/09/2026 09:43
-977e885f-4843-4b63-b61c-71001e27865f,rely.meme,premium,112.5,,high,low,4,name.com,,,
+977e885f-4843-4b63-b61c-71001e27865f,rely.meme,premium,90.2,,high,low,4,unstoppable,,,30/09/2026 14:02
 cdab66c6-79e4-42b0-99fd-1439f70e6dab,okay.meme,premium,455,455,high,low,4,namecheap,,,22/09/2026 01:07
 db862ee2-8643-44e1-862e-d83274af1827,mushroom.meme,premium,117,117,high,low,8,namecheap,,,28/09/2026 14:57
 a05e09ef-ca67-47fe-b8a4-ce5e1f3ae791,shuttle.meme,premium,155.45,155.45,high,low,7,spaceship,,,27/09/2026 15:53
 a56b5498-8289-45e2-b99d-41e8f5271e04,amberbell.meme,available,12.98,15.98,medium,low,9,namecheap,,,18/09/2026 16:32
-7593a7b1-bb5c-4db7-8de8-e2389f8ce15e,alumina.meme,available,12.98,15.98,high,low,7,namecheap,,,18/09/2026 15:12
+7593a7b1-bb5c-4db7-8de8-e2389f8ce15e,alumina.meme,available,12.98,15.98,medium,low,7,namecheap,,,18/09/2026 15:12
 33d3a362-096d-41d0-b0d3-4c351c1ed8d7,interest.meme,premium,195,195,high,low,8,namecheap,,,08/09/2026 14:02
 5c8a650e-4a4f-44cf-a8ac-4910cd357e6e,increased.meme,available,12.98,15.98,high,low,9,namecheap,,,25/09/2026 08:09
 a4799d34-b45c-4b8b-ac9f-c5d5e34368d0,whitish.meme,available,12.98,15.98,medium,low,7,namecheap,,,24/08/2026 23:06
 8e0f3197-62cb-427d-a138-d3eb585c5a58,stilted.meme,available,12.98,15.98,medium,low,7,namecheap,,,10/09/2026 20:37
-16373a56-4e60-43f7-88e0-46446c9a1728,pompom.meme,premium,62.5,62.5,high,low,7,name.com,,,
+16373a56-4e60-43f7-88e0-46446c9a1728,pompom.meme,premium,62.5,62.5,medium,low,7,name.com,,,
 49a42662-250d-4929-84b3-1700e992620a,flavor.meme,premium,155.45,155.45,high,low,6,spaceship,,,28/09/2026 14:12
 2d3232c4-37c9-4e05-b4e3-4357a4750fb5,mute.meme,premium,62.5,62.5,high,low,4,name.com,,,13/08/2026 16:51
+63710030-c3cb-48ad-9190-e6ad5a97f2f7,ets.meme,premium,93.35,93.35,high,medium,3,spaceship,,,30/09/2026 13:24
 7baf1181-f148-4c14-90b8-2bbe60de793e,sunstone.meme,available,12.98,15.98,high,low,8,namecheap,,,21/09/2026 09:07
 e05f9470-be23-43ba-9e80-679852e448c9,obscene.meme,available,12.98,15.98,high,low,7,namecheap,,,
 a98a4e67-7ab8-4948-a832-54c6856c95c8,kissing.meme,premium,117,117,high,low,7,namecheap,,,24/09/2026 12:56
@@ -677,6 +716,7 @@ a98a4e67-7ab8-4948-a832-54c6856c95c8,kissing.meme,premium,117,117,high,low,7,nam
 9f837920-eaed-4532-9e24-178ee6b5e4fc,presenting.meme,available,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 17:29
 9a04a80c-73d0-4efa-9ed1-2cbe3c95a3c0,increasing.meme,premium,65,65,high,low,10,namecheap,,,25/09/2026 08:12
 0d1ec122-f3c7-4c57-949b-0c0eb25ca223,buena.meme,premium,,,medium,low,5,,,,27/09/2026 21:05
+0ffa1c63-c05f-4608-9baf-c72fe9164622,whitlock.meme,available,12.98,15.98,medium,low,8,namecheap,,,30/09/2026 21:49
 92aaa15a-8797-4fff-9fcd-5966c0d9a95f,thirst.meme,premium,55.11,55.11,high,low,6,porkbun,,,28/09/2026 19:46
 cd278d1b-be06-4a9d-a675-e5e7d1bbafb3,instyle.meme,premium,117,117,high,low,8,namecheap,,,17/09/2026 05:05
 6ed01513-e933-49ee-8cc0-cfdee6476604,assize.meme,available,12.98,15.98,medium,low,6,namecheap,,,20/09/2026 16:30
@@ -688,8 +728,8 @@ ba08c493-0439-455f-add4-417093c6ea06,latitude.meme,premium,112.5,,high,low,8,nam
 84f97e46-ba91-43a6-afb7-4dd48f2a610a,eunice.meme,available,10.55,10.55,medium,low,6,spaceship,,,29/09/2026 03:57
 14c0e4bd-af99-4a00-984f-591667840cbf,plaster.meme,premium,65,65,high,low,7,namecheap,,,17/09/2026 07:59
 057224dd-d9ac-4196-b177-d50c9c2a7d4c,brindle.meme,available,12.98,15.98,medium,low,7,namecheap,,,11/08/2026 04:17
-58d9d310-dd43-4a47-8edf-2b9aaccb6e21,bao.meme,premium,90.2,,high,low,3,unstoppable,,,28/09/2026 21:38
-5c2ee3b8-4491-42ac-a369-eec3f3bf4725,sabha.meme,available,10.55,10.55,high,low,5,spaceship,,,29/09/2026 21:35
+58d9d310-dd43-4a47-8edf-2b9aaccb6e21,bao.meme,premium,90.2,,medium,low,3,unstoppable,,,28/09/2026 21:38
+5c2ee3b8-4491-42ac-a369-eec3f3bf4725,sabha.meme,available,10.55,10.55,medium,low,5,spaceship,,,29/09/2026 21:35
 07729884-ac1b-4762-8f76-eee2d5cc39f1,propellant.meme,available,12.98,15.98,high,low,10,namecheap,,,09/09/2026 03:26
 9e2fe735-90b5-4d50-ad46-689927b0e389,lizzie.meme,premium,55.11,55.11,high,low,6,porkbun,,,28/09/2026 11:45
 e91a9924-272f-4228-9e4c-038ea1919414,colly.meme,available,12.98,15.98,medium,low,5,namecheap,,,14/08/2026 09:17
@@ -705,19 +745,22 @@ c9efc38c-a453-435f-94f6-26c27e27b9df,dion.meme,premium,,,medium,low,4,,,,28/09/2
 d418d453-605e-4f54-8c0c-65f3ce72d057,integrated.meme,premium,117,117,high,low,10,namecheap,,,25/09/2026 08:05
 c4eb181a-a9f1-4496-b4db-6cdff47cd3e7,discretion.meme,available,12.98,15.98,high,low,10,namecheap,,,24/09/2026 15:03
 641fe22a-0ee9-4e0e-a03f-7e8a07fffb71,geoff.meme,premium,51.95,51.95,medium,low,5,spaceship,,,28/09/2026 07:55
-643718d9-d008-4f20-9afd-d1b4840cbd29,attended.meme,available,12.98,15.98,high,low,8,namecheap,,,22/09/2026 11:17
+643718d9-d008-4f20-9afd-d1b4840cbd29,attended.meme,available,12.98,15.98,medium,low,8,namecheap,,,22/09/2026 11:17
 4de69d10-e3d4-4ee3-984f-8c3c86530453,coordination.meme,available,14,,high,low,12,unstoppable,,,29/09/2026 23:16
-c66fa9f9-a7a7-4fd5-8948-0b14b03befa1,metabolism.meme,available,10.55,10.55,high,low,10,spaceship,,,29/09/2026 13:25
+c66fa9f9-a7a7-4fd5-8948-0b14b03befa1,metabolism.meme,available,10.55,10.55,medium,low,10,spaceship,,,29/09/2026 13:25
 151664bd-618a-4652-a5ea-342597ae1f36,shouldered.meme,available,12.98,15.98,high,medium,10,namecheap,,,10/09/2026 06:51
 78ebf4a7-2563-4764-b4de-49ee163466c3,footle.meme,available,12.98,15.98,medium,low,6,namecheap,,,11/09/2026 08:27
 718d669d-4102-4c29-9983-5790819748bf,nitrogen.meme,premium,112.5,112.5,high,low,8,name.com,,,20/09/2026 23:37
 60b774f1-aba7-433e-ad16-2d3fca4f82bd,multitude.meme,available,10.81,10.81,high,low,9,porkbun,,,29/09/2026 10:33
 2d76bb4b-7b34-4cd2-a035-a8e25dfac2b6,relieved.meme,available,12.98,15.98,high,low,8,namecheap,,,
+29c3a822-9f02-4f7b-83f1-794a73fce207,reluctance.meme,available,10.2,10.2,medium,low,10,cloudflare,,,30/09/2026 10:58
 5d1c48ab-21dc-421e-ac6d-2c346d7a875f,larger.meme,premium,65,65,high,low,6,namecheap,,,22/09/2026 20:38
 f274ba1a-0de9-45b2-adc8-d2d1dcaaa21b,spousal.meme,available,12.98,15.98,high,low,7,namecheap,,,11/08/2026 03:56
 3663f4d4-3bce-4a39-b9c2-e2aabb00c2ce,arugula.meme,available,12.98,15.98,high,low,7,namecheap,,,20/09/2026 12:10
 f27e2dff-f845-44d7-8807-ca35973c2425,xix.meme,premium,117,117,high,low,3,namecheap,,,21/09/2026 12:08
 a9192e7b-f00b-46c9-ad44-b53c659eb975,plunk.meme,available,12.98,15.98,medium,low,5,namecheap,,,15/09/2026 20:41
+0eafe5a3-8007-49ec-b05d-dd2233f6bdd8,arises.meme,available,10.2,10.2,low,low,6,cloudflare,,,30/09/2026 07:05
+3ab61196-0603-491a-a1a4-4159e9490c13,hera.meme,premium,,,high,low,4,,,,01/10/2026 02:29
 f59d5deb-a76b-408a-997e-f93d71e45e0b,flyaway.meme,available,12.98,15.98,medium,low,7,namecheap,,,18/08/2026 08:13
 4cbeed63-bf2f-499a-8249-142ee7351e70,redwing.meme,available,12.98,15.98,high,low,7,namecheap,,,17/09/2026 16:57
 46a4fbb7-5f88-4548-9a30-a6c05b2ab788,erose.meme,available,12.98,15.98,medium,low,5,namecheap,,,17/08/2026 12:30
@@ -729,7 +772,7 @@ e319a188-cc0d-42b5-9afb-2fa7ee9615e0,brambly.meme,available,12.98,15.98,medium,l
 ac22be5e-c612-424f-8336-ab56e357e95e,contagious.meme,available,12.98,15.98,high,low,10,namecheap,,,11/08/2026 21:18
 10706fa7-0a2f-4121-92ba-39565670530b,vertically.meme,available,18.99,18.99,medium,low,10,name.com,,,16/09/2026 10:53
 74f4051e-1851-4cca-8ded-1cfd26408bd5,kennelly.meme,available,12.98,15.98,medium,low,8,namecheap,,,16/09/2026 12:58
-a5258b35-5fb3-4e06-b56c-9440b8a3a17b,outbreak.meme,available,14,,high,low,8,unstoppable,,,28/09/2026 15:00
+a5258b35-5fb3-4e06-b56c-9440b8a3a17b,outbreak.meme,available,14,,medium,low,8,unstoppable,,,28/09/2026 15:00
 b131b024-0b93-47d1-8e73-e8ed63ba0b34,dolls.meme,premium,,,medium,low,5,,,,28/09/2026 09:09
 b7e12354-ce3c-4889-90d7-d0155c862148,upstream.meme,premium,112.5,112.5,high,low,8,name.com,,,12/09/2026 23:24
 a71b4d33-61fe-4d15-b3a3-49a64ebc8307,sickish.meme,available,12.98,15.98,low,low,7,namecheap,,,03/09/2026 14:05
@@ -750,11 +793,12 @@ bd809e42-784d-4a3c-80a7-cd57b49e6a3a,jovially.meme,available,12.98,15.98,high,lo
 b100deb0-f560-4ca1-9617-331afdbb62aa,authorization.meme,available,10.2,10.2,medium,low,13,cloudflare,,,28/09/2026 08:21
 a75a2af1-a693-42a9-9dcf-92f2b6fc0bbe,accuracy.meme,premium,117,117,high,low,8,namecheap,,,16/09/2026 23:21
 2086a6bc-fb8d-46f3-8518-2c6b5eed3b30,turndown.meme,available,15.98,,high,low,9,namecheap,,,
+ad99b688-e747-4533-bea0-5e252d1becfc,bmt.meme,premium,117,117,high,low,3,namecheap,,,30/09/2026 20:59
 af4b25ef-7c11-476b-8011-a4b1bef97e81,bankers.meme,premium,65,65,medium,low,7,namecheap,,,20/09/2026 11:37
-27454543-02fd-4f16-ba79-b5dc4f0095c3,converge.meme,available,15.98,,high,low,8,namecheap,,,
-5c5c8293-74db-40f2-bbd5-8f815491aed2,bragg.meme,premium,65,65,high,low,5,namecheap,,,25/09/2026 21:58
+27454543-02fd-4f16-ba79-b5dc4f0095c3,converge.meme,available,10.2,10.2,high,low,8,cloudflare,,,30/09/2026 17:59
+5c5c8293-74db-40f2-bbd5-8f815491aed2,bragg.meme,premium,65,65,medium,low,5,namecheap,,,25/09/2026 21:58
 3ddb998e-d5d6-41c8-bc40-26b259a0e264,demesne.meme,available,12.98,15.98,medium,low,7,namecheap,,,17/09/2026 02:57
-a13746f9-ce1e-477d-b4a4-4f98e75e39c5,clarissa.meme,available,10.2,10.2,high,low,8,cloudflare,,,29/09/2026 21:24
+a13746f9-ce1e-477d-b4a4-4f98e75e39c5,clarissa.meme,available,10.2,10.2,medium,low,8,cloudflare,,,29/09/2026 21:24
 5d08ae1f-f60b-4362-82de-eb717a2ecb96,reductive.meme,available,12.98,15.98,high,medium,9,namecheap,,,09/09/2026 12:25
 8394002d-db94-4faa-b50b-bd1c5165e41c,redoubled.meme,available,12.98,15.98,high,medium,9,namecheap,,,09/09/2026 12:22
 992d4662-bf2c-4ef4-a8ef-b8835e889cc1,trickily.meme,available,12.98,15.98,medium,low,8,namecheap,,,14/09/2026 09:11
@@ -763,34 +807,40 @@ a637974c-2d75-4445-94d8-b752ad6f55db,fitzpatrick.meme,available,12.98,15.98,medi
 0fb91c39-163e-4741-ae5f-ad40ffedc859,damned.meme,available,12.98,15.98,medium,low,6,namecheap,,,22/09/2026 21:41
 08933519-ca25-4fe3-93ac-2bf8bd5bc7cc,medal.meme,premium,93.35,93.35,high,low,5,spaceship,,,30/09/2026 02:12
 9cc14eea-c92c-4032-9bfb-f333708ea157,within.meme,premium,155.45,155.45,high,low,6,spaceship,,,28/09/2026 16:47
-ea296a99-0a3c-4abe-aba8-571b8d1bc06f,ursula.meme,premium,51.95,51.95,high,low,6,spaceship,,,28/09/2026 03:44
+ea296a99-0a3c-4abe-aba8-571b8d1bc06f,ursula.meme,premium,51.95,51.95,medium,low,6,spaceship,,,28/09/2026 03:44
+882dd27b-0401-4755-96f7-6cb77d02d1b4,trapping.meme,available,14,,medium,low,8,unstoppable,,,30/09/2026 08:56
 b86e4d96-2648-4a1f-9eb4-61c34db535d1,gentile.meme,available,12.98,15.98,high,low,7,namecheap,,,18/08/2026 21:53
 50a41f07-7db9-4fb0-8c70-98628492eed8,curative.meme,available,12.98,15.98,high,low,8,namecheap,,,22/09/2026 02:19
+ec82c88c-803a-445d-8cd2-4ed153426b61,insignia.meme,available,10.55,10.55,high,low,8,spaceship,,,30/09/2026 17:42
 b5fd29be-a897-4246-a795-9f5584e6c109,aluminate.meme,available,12.98,15.98,medium,low,9,namecheap,,,18/09/2026 15:13
 400cfa69-265a-4b8c-86c5-5345758c5871,ivy.meme,premium,155.45,155.45,high,low,3,spaceship,,,29/09/2026 10:26
 42fc34b4-1670-42f8-8380-52af46127c4b,cohesive.meme,available,12.98,15.98,high,low,8,namecheap,,,12/08/2026 16:05
 825aac56-7f87-4203-a847-6f4be005cd3d,fore.meme,premium,62.5,62.5,high,low,4,name.com,,,18/08/2026 11:26
-fb9972f7-7f0a-460a-a020-51bda756adca,advised.meme,available,10.2,10.2,high,low,7,cloudflare,,,28/09/2026 04:48
+fb9972f7-7f0a-460a-a020-51bda756adca,advised.meme,available,12.98,15.98,high,low,7,namecheap,,,01/10/2026 02:49
 5d3be4d0-f537-4791-9cdb-ac03b61903e0,adh.meme,premium,112.5,112.5,high,low,3,name.com,,,17/09/2026 07:56
 a5f3a84a-248b-4bce-9007-f256618ac20d,displacement.meme,available,10.55,10.55,high,low,12,spaceship,,,29/09/2026 21:00
-4f96d419-ca60-42b5-9c2e-087403757dc8,flew.meme,available,15.98,,high,low,4,namecheap,,,
+4f96d419-ca60-42b5-9c2e-087403757dc8,flew.meme,available,10.55,10.55,high,low,4,spaceship,,,30/09/2026 22:39
 89d1f88f-c09a-4d6f-b3c5-d04a471bd3d0,windflower.meme,available,12.98,15.98,high,low,10,namecheap,,,19/09/2026 05:19
 5ef6f77c-ee03-44ef-9e13-5557c9086a63,playback.meme,premium,90.2,,high,low,8,unstoppable,,,29/09/2026 13:42
-4ee9c023-546d-4a8e-8ee5-60b3bbba3b81,gabonese.meme,available,12.98,15.98,high,low,8,namecheap,,,18/08/2026 19:24
+4ee9c023-546d-4a8e-8ee5-60b3bbba3b81,gabonese.meme,available,12.98,15.98,medium,low,8,namecheap,,,18/08/2026 19:24
 16c2a2c3-2ae3-4002-9c66-58b9fd27eb95,bigos.meme,available,12.98,15.98,medium,low,5,namecheap,,,23/09/2026 15:19
+8e619d8f-7b79-4cc3-a15f-b38d36427f32,temperament.meme,available,10.2,10.2,high,low,11,cloudflare,,,30/09/2026 22:37
 c9f85490-7956-4e0a-9093-d023d129aa04,clarke.meme,premium,155.45,155.45,high,medium,6,spaceship,,,29/09/2026 17:07
 4da67df2-ea9e-4eae-a5ab-b78bf7ec0fba,anemone.meme,available,12.98,15.98,high,low,7,namecheap,,,19/09/2026 05:19
 4073d313-13ed-496b-ad18-8fe99bdf8801,wandered.meme,available,12.98,15.98,medium,low,8,namecheap,,,18/09/2026 02:36
 edd54cb0-9082-470d-99e8-c7d35c2f3ae1,lxxi.meme,available,12.98,15.98,medium,low,4,namecheap,,,
 ed45755d-3a95-4701-bdc9-aef7ee4c4c29,humphrey.meme,available,12.98,15.98,high,low,8,namecheap,,,25/09/2026 14:49
 a32f9e18-8859-46ef-934c-682333249f7f,regression.meme,premium,65,65,high,low,10,namecheap,,,20/09/2026 09:08
-a18f9f21-aee8-4f48-be48-27a67a92032f,dorchester.meme,available,12.98,15.98,high,low,10,namecheap,,,27/09/2026 07:30
+aa053514-4e3f-421a-8641-812dfdcc6be3,eucharistic.meme,available,14,,medium,low,11,unstoppable,,,30/09/2026 11:39
+a18f9f21-aee8-4f48-be48-27a67a92032f,dorchester.meme,available,12.98,15.98,medium,low,10,namecheap,,,27/09/2026 07:30
 a19d1229-ee18-4e23-9fe6-df39d5dea618,rocks.meme,premium,455,455,high,low,5,namecheap,,,17/09/2026 07:43
 0a5450d9-7b29-45f3-98b8-153a807ce7ad,flaw.meme,available,10.81,10.81,medium,low,4,porkbun,,,29/09/2026 00:57
+9d8af0d7-7212-435c-b432-37db6838d838,ridges.meme,available,10.55,10.55,low,low,6,spaceship,,,30/09/2026 23:22
 a55082d8-3640-4162-828a-c221e120b0ca,halloween.meme,premium,112.5,,high,low,9,name.com,,,28/09/2026 20:33
 e69ea7eb-f596-4b19-8062-48c27c896c7b,angelology.meme,available,12.98,15.98,medium,low,10,namecheap,,,19/09/2026 06:02
 79bce4f6-81e0-4c38-92de-615a31bc83cf,myer.meme,available,12.98,15.98,medium,low,4,namecheap,,,29/09/2026 22:41
 48e7f812-ab50-4c29-be62-9145f2455ef0,energizer.meme,available,12.98,15.98,high,low,9,namecheap,,,19/09/2026 09:06
+df8b3645-fdcc-4ed9-86ca-4b5be342a1a1,diocletian.meme,available,10.55,10.55,medium,low,10,spaceship,,,30/09/2026 16:59
 d3262d7d-3230-48fa-8e3d-6dcc6a32ff87,asparagine.meme,available,12.98,15.98,medium,low,10,namecheap,,,20/09/2026 14:39
 a0e49bdd-0aaa-4dcd-b5ba-c0f9208dfa81,breckinridge.meme,available,10.55,10.55,medium,low,12,spaceship,,,29/09/2026 15:54
 e9f5aa55-a5cf-4d40-8534-7241442e7572,coltsfoot.meme,available,12.98,15.98,medium,low,9,namecheap,,,23/09/2026 01:58
@@ -800,16 +850,19 @@ e9f5aa55-a5cf-4d40-8534-7241442e7572,coltsfoot.meme,available,12.98,15.98,medium
 527232ec-4f23-49b6-9ffd-b8810e9dc991,voyage.meme,premium,350.2,,high,low,6,unstoppable,,,28/09/2026 02:51
 9b7e568e-8b63-4fb2-8c34-db3af2c1272a,lsu.meme,premium,93.35,93.35,high,low,3,spaceship,,,28/09/2026 21:28
 d12dbf38-e1c1-49b2-b5f9-772c64f86ff4,rested.meme,available,12.98,15.98,high,low,6,namecheap,,,27/09/2026 12:50
+56b37ebf-b28c-4cfe-8205-944e00b00325,enables.meme,premium,90.2,,medium,low,7,unstoppable,,,01/10/2026 00:35
 9196cb20-b00f-495a-a86b-274d0d696ac3,edgeless.meme,available,12.98,15.98,medium,low,8,namecheap,,,15/08/2026 08:37
 7cb0b0c3-ecd7-4e2c-8277-f3e4b605f7d4,langer.meme,premium,50.2,,medium,low,6,unstoppable,,,29/09/2026 02:56
 53c507c0-e053-4a1a-a29f-7fb29e26776e,saucy.meme,premium,62.5,62.5,high,low,5,name.com,,,21/08/2026 22:17
 bea279a4-79e9-4907-a48e-e0bc5a47b409,allylic.meme,available,12.98,15.98,medium,low,7,namecheap,,,
 a99ec426-eaf9-400f-a169-49d09d7ae875,specialty.meme,premium,112.5,112.5,high,low,9,name.com,,,18/08/2026 12:30
+ea697ec5-7781-4329-b789-9234bba38ccd,mohave.meme,available,14,,high,low,6,unstoppable,,,01/10/2026 03:01
 24f0e7e1-27a4-4460-9b91-cc46ecbc63c6,deciders.meme,available,12.98,15.98,medium,low,8,namecheap,,,20/09/2026 23:38
 22f62070-ec4e-46c3-a43c-437ef1b991a3,lost.meme,premium,845,845,high,low,4,namecheap,,,22/09/2026 10:52
 763a317c-0351-430e-8052-4e6980078237,algolagnia.meme,available,12.98,15.98,medium,low,10,namecheap,,,18/09/2026 07:07
 abf38daa-00c5-4206-824a-cdbadcdab828,numberless.meme,available,12.98,15.98,high,low,10,namecheap,,,13/08/2026 03:42
-3f7d0c6d-3b2f-4895-86c2-024c41db7fbd,nrc.meme,premium,90.2,,high,low,3,unstoppable,,,28/09/2026 10:37
+f90e9857-9e9d-4179-9faf-d5356bca6e85,sheboygan.meme,available,10.2,10.2,medium,low,9,cloudflare,,,30/09/2026 05:39
+3f7d0c6d-3b2f-4895-86c2-024c41db7fbd,nrc.meme,premium,90.2,,medium,low,3,unstoppable,,,28/09/2026 10:37
 f036eb50-c2bf-4e5d-936b-b1f12547ff9a,roughdried.meme,available,12.98,15.98,high,medium,10,namecheap,,,09/09/2026 18:59
 295e9251-3760-4c84-bf0f-44ef95e665e8,kooky.meme,available,12.98,15.98,medium,low,5,namecheap,,,06/08/2026 21:04
 c69ea732-178d-40a0-8ca8-e2aa01b99a80,steer.meme,premium,50.2,,high,low,5,unstoppable,,,29/09/2026 10:54
@@ -819,7 +872,9 @@ c69ea732-178d-40a0-8ca8-e2aa01b99a80,steer.meme,premium,50.2,,high,low,5,unstopp
 df8405c7-0cb2-431d-b2c5-da9aaeab6d84,ips.meme,premium,150.2,,high,low,3,unstoppable,,,29/09/2026 03:50
 1e47eaf8-4306-4779-8939-f581387f89d8,closes.meme,available,10.2,10.2,medium,low,6,cloudflare,,,28/09/2026 05:00
 4d1e34d0-ee1a-4a07-b4b1-a266392faa5e,salutary.meme,available,12.98,15.98,high,medium,8,namecheap,,,09/09/2026 21:00
+64a7d370-9a88-45f1-8327-ad6163a44d14,errol.meme,available,14,,medium,low,5,unstoppable,,,30/09/2026 12:54
 04e5371b-e9e9-4c93-91ed-396cb4a5ff15,tartness.meme,available,18.99,18.99,medium,low,8,name.com,,,17/09/2026 03:12
+4b30e4ec-e304-4d60-ab86-0652330f8344,vor.meme,premium,98.77,98.77,medium,low,3,porkbun,,,30/09/2026 03:38
 449be8e2-6602-4a38-ba6d-402171747a0b,ocher.meme,available,12.98,15.98,medium,low,5,namecheap,,,04/09/2026 00:31
 4bc2eba3-6690-4df6-80cf-e88444c98be4,soonest.meme,available,12.98,15.98,medium,low,7,namecheap,,,14/08/2026 22:25
 1800bf7c-0e23-41a5-90f6-c52f07af17a1,regard.meme,premium,117,117,high,low,6,namecheap,,,08/09/2026 11:00
@@ -834,20 +889,22 @@ e43c2ee8-d16d-4e00-bd43-7ede56bc6523,acclaim.meme,available,12.98,15.98,high,low
 d34700ca-a1d3-42b5-8b82-78185c62f641,lime.meme,premium,812.5,812.5,high,low,4,name.com,,,23/09/2026 20:42
 21f0325c-ccd9-402d-9d02-b0170df81714,fulgid.meme,available,,,medium,low,6,,,,
 35ff156b-e7f8-4481-95f1-8d44dd1e8155,browned.meme,available,12.98,15.98,medium,low,7,namecheap,,,11/08/2026 06:29
-f64116dd-7cdd-4662-b39d-0a438266bf36,pill.meme,premium,150.2,,high,low,4,unstoppable,,,28/09/2026 21:31
+f64116dd-7cdd-4662-b39d-0a438266bf36,pill.meme,premium,150.2,,medium,low,4,unstoppable,,,28/09/2026 21:31
 5480f657-885d-48e7-8ee4-02626fdf1fe7,owen.meme,premium,65,65,high,low,4,namecheap,,,25/09/2026 09:42
+fcc1eaf6-b2cc-4b8f-abe5-00f31e03d103,correlation.meme,available,10.2,10.2,high,low,11,cloudflare,,,30/09/2026 22:57
 2446b169-46f6-420a-80d8-bfcfca9f29b4,working.meme,premium,455,455,high,low,7,namecheap,,,19/09/2026 07:09
 580afadb-b688-47e1-a773-0bf86ad27e05,getaways.meme,available,12.98,15.98,medium,low,8,namecheap,,,20/09/2026 18:37
 273d67e1-73ca-48f8-92a8-db66d53921cd,perugia.meme,available,12.98,15.98,high,low,7,namecheap,,,29/09/2026 21:46
 bd19c89d-411d-4075-a21c-f1d7396db02e,terrain.meme,premium,195,195,high,low,7,namecheap,,,28/09/2026 20:36
 b476841b-823f-4762-82bb-3ace34fc2cb3,forgo.meme,available,12.98,15.98,high,low,5,namecheap,,,18/08/2026 11:51
+bfb15f18-4762-45e5-bc05-4c69b5653e53,cubes.meme,premium,90.2,,medium,low,5,unstoppable,,,30/09/2026 16:21
 b902c720-1249-42b5-9dbf-de2b60347633,boyd.meme,premium,65,65,high,low,4,namecheap,,,25/09/2026 14:55
 4312fab0-4ba7-4537-a015-2163f374e37e,articulate.meme,available,12.98,15.98,high,low,10,namecheap,,,22/09/2026 08:42
 8812fca1-3d72-4ffd-a0aa-c165e89812db,allosaur.meme,available,12.98,15.98,medium,low,8,namecheap,,,18/09/2026 12:04
 74ae1609-33d1-4ca9-92b1-ef99b9c55cb2,coming.meme,premium,195,195,high,low,6,namecheap,,,23/09/2026 15:31
 a6c195ff-0dea-4075-9b45-5c06ed63f1c1,speer.meme,available,12.98,15.98,high,low,5,namecheap,,,18/09/2026 02:44
 9c157467-d709-4dfb-9b8f-604647119f7b,vendable.meme,available,12.98,15.98,medium,low,8,namecheap,,,24/08/2026 20:30
-204d437a-ae7e-44b0-ba8b-c5d0dddc417f,diminishing.meme,available,15.98,,high,low,11,namecheap,,,
+204d437a-ae7e-44b0-ba8b-c5d0dddc417f,diminishing.meme,available,15.98,,medium,low,11,namecheap,,,
 768302e0-d808-4ab1-8f22-97c76025fa76,beauvoir.meme,available,12.98,15.98,high,low,8,namecheap,,,22/09/2026 22:24
 b78bcf62-63ec-4d06-a5f0-3db9bc30dfc6,immortal.meme,premium,62.5,62.5,high,low,8,name.com,,,21/08/2026 21:12
 3ddb3dde-b635-442f-b5bb-51ad8d627f1e,finds.meme,premium,455,455,high,low,5,namecheap,,,18/09/2026 15:38
@@ -866,15 +923,19 @@ a341e7f2-755d-4708-839c-c62529a6fd9c,abrasive.meme,available,12.98,15.98,high,lo
 1da3d7dc-fddf-4e0d-a008-460a71465b96,provoke.meme,available,12.98,15.98,high,low,7,namecheap,,,29/09/2026 22:15
 4fe64020-3622-4f00-b70a-17080193af8c,bathsheba.meme,available,12.98,15.98,medium,low,9,namecheap,,,22/09/2026 13:52
 3364a793-298a-42fa-a202-990cb0449d21,hee.meme,premium,,,high,low,3,,,,29/09/2026 21:26
+8d3c5eef-5ff2-4f93-a05b-946bbcf9e328,ethic.meme,available,10.2,10.2,high,low,5,cloudflare,,,30/09/2026 17:13
 7f61e7d2-e2c0-4848-96ae-a9838d1dff82,whimsical.meme,available,12.98,15.98,high,low,9,namecheap,,,13/09/2026 11:24
+1b79c795-cfc9-442a-9e20-a637baaab739,experimented.meme,available,10.81,10.81,medium,low,12,porkbun,,,30/09/2026 07:34
 f6ba9daa-65a4-4632-877f-b12e8ca83b98,knopf.meme,available,10.2,10.2,high,low,5,cloudflare,,,29/09/2026 11:20
 db98adb2-4856-48f9-ae89-56928ca8e2e9,formula.meme,premium,362.45,362.45,high,low,7,spaceship,,,28/09/2026 08:04
+5f6c8b88-9011-48f8-8eb0-52f3be3f5692,thames.meme,premium,51.95,51.95,high,low,6,spaceship,,,01/10/2026 03:33
 18d90778-fc59-4d47-a8d5-544afeed6158,hence.meme,premium,50.2,,medium,low,5,unstoppable,,,28/09/2026 15:09
 67a363ba-d408-46ec-8d1d-58bf152fcf33,chosen.meme,premium,437.5,437.5,high,low,6,name.com,,,16/08/2026 02:32
 930aaa34-494b-46a9-b722-ba98dede435c,due.meme,premium,455,455,high,low,3,namecheap,,,22/09/2026 09:27
 d5e491d1-eff8-49dc-85e8-27215445003b,frustrated.meme,available,12.98,15.98,medium,low,10,namecheap,,,24/09/2026 10:57
 fbaa775c-811a-47db-8c49-4f5f982218af,instability.meme,available,10.55,10.55,medium,low,11,spaceship,,,29/09/2026 23:37
 b4b35aef-619b-44e0-9b14-8b69e1d748a4,fantasy.meme,premium,455,455,high,low,7,namecheap,,,24/09/2026 16:36
+fb4ead7a-10f9-449c-9763-09a2d7b93f28,puri.meme,available,10.2,10.2,high,low,4,cloudflare,,,30/09/2026 11:54
 cabf1f65-a0f9-4cfa-84c4-a3845943c922,promoting.meme,premium,51.95,51.95,medium,low,9,spaceship,,,29/09/2026 10:15
 065b1060-5df7-4dd8-8915-f5da2644da0b,audiometry.meme,available,12.98,15.98,medium,low,10,namecheap,,,21/09/2026 02:58
 80af5e15-8ffe-4c5a-9f00-f96b011ab79f,zack.meme,premium,65,65,high,low,4,namecheap,,,27/09/2026 18:11
@@ -888,6 +949,7 @@ d6ac24b7-0028-447e-a840-e65cb96929be,wuhan.meme,premium,,,high,low,5,,,,29/09/20
 01deb3e7-f1e2-4774-858d-7b692644e308,trigonal.meme,available,12.98,15.98,medium,low,8,namecheap,,,09/09/2026 16:45
 84eb98cb-abd3-414d-adc9-22b883899ab8,agendum.meme,available,12.98,15.98,medium,low,7,namecheap,,,17/09/2026 17:05
 56eb634f-b15a-459c-8460-3bd0b24b5381,carnal.meme,available,12.98,15.98,high,low,6,namecheap,,,
+94b9eb1a-3df6-4a5c-9f4d-3183ceeef22d,gorton.meme,available,10.2,10.2,high,low,6,cloudflare,,,30/09/2026 04:32
 3ab80b97-6228-469a-ad76-3fc2f8640574,ayr.meme,premium,117,117,high,low,3,namecheap,,,21/09/2026 10:41
 61bba254-b30d-44f1-bd6c-ea02d4d94860,karin.meme,premium,93.35,93.35,medium,low,5,spaceship,,,29/09/2026 04:04
 9da1b402-2720-4e61-aa59-d6fbf3f88e58,oneself.meme,available,15.98,,high,low,7,namecheap,,,
@@ -898,10 +960,10 @@ f42468e6-8163-482a-b7ba-f0323e167cdc,uninspired.meme,available,12.98,15.98,mediu
 1a495e3f-5408-434d-bc51-e082c3916df8,kills.meme,premium,65,65,medium,low,5,namecheap,,,25/09/2026 21:19
 69156c40-b4dd-47d6-9655-1d2b146443c4,rimed.meme,available,12.98,15.98,medium,low,5,namecheap,,,09/09/2026 17:39
 9b89ef1a-55ef-416c-9f4d-c307891476f5,vigorous.meme,available,12.98,15.98,high,low,8,namecheap,,,13/09/2026 05:44
-4db7fa24-df8b-475e-8e40-46348aa59ab8,lined.meme,premium,62.5,62.5,high,low,5,name.com,,,23/08/2026 14:17
+4db7fa24-df8b-475e-8e40-46348aa59ab8,lined.meme,premium,62.5,62.5,medium,low,5,name.com,,,23/08/2026 14:17
 37e7cc14-c1d4-4e68-8987-b31a75f7188f,perimeter.meme,available,14,,high,low,9,unstoppable,,,28/09/2026 01:41
 bb5d9df9-ee68-44dc-a3c0-19af9ceba9ae,satiable.meme,available,12.98,15.98,high,low,8,namecheap,,,09/09/2026 21:37
-c1f2d882-fc8c-46d6-a491-e0cbd15d00c4,rep.meme,premium,812.5,,high,low,3,name.com,,,
+c1f2d882-fc8c-46d6-a491-e0cbd15d00c4,rep.meme,premium,812.5,,high,low,3,name.com,,,30/09/2026 09:50
 7c5140eb-538d-42d7-ac00-5cfd4963476e,trustee.meme,premium,65,65,high,medium,7,namecheap,,,09/09/2026 12:53
 c3c831b7-d6a8-49c4-8a62-d4697f47bc4f,defendable.meme,available,12.98,15.98,high,low,10,namecheap,,,13/08/2026 23:09
 310222b8-b92a-48a5-bfa3-1e3f8fa339fc,outwards.meme,available,12.98,15.98,medium,low,8,namecheap,,,04/09/2026 19:50
@@ -921,13 +983,15 @@ f5fcc11a-cc89-4369-8647-bbaba8ece9b9,pathologic.meme,available,12.98,15.98,mediu
 6a6099d0-8515-4194-9190-648481dc9a42,fordham.meme,available,12.98,15.98,medium,low,7,namecheap,,,27/09/2026 07:54
 ed45fdfa-a7df-4b15-b50d-01c1b6bc09c2,proceeding.meme,available,10.55,10.55,medium,low,10,spaceship,,,28/09/2026 10:14
 e65273b5-f903-4ac8-bb73-96c58af11718,endergonic.meme,available,12.98,15.98,medium,low,10,namecheap,,,17/08/2026 00:55
+f123734d-0ad0-4ff1-802b-a76c62aa3448,blames.meme,available,10.55,10.55,low,low,6,spaceship,,,01/10/2026 00:32
 a49932ca-2d74-49d2-846a-5671bdf89760,tended.meme,available,12.98,15.98,medium,low,6,namecheap,,,18/09/2026 22:30
+d51b5c1b-6e7d-4918-a1c5-fc983e6de802,nkvd.meme,available,10.55,10.55,medium,low,4,spaceship,,,30/09/2026 04:47
 fdf301b8-67e7-46b4-b4cc-ad50a0033d90,tumor.meme,premium,,,medium,low,5,,,,28/09/2026 10:32
 210a059e-3703-46ce-b75a-2e8b053b4074,respond.meme,premium,155.45,155.45,high,low,7,spaceship,,,28/09/2026 21:35
 72cb4341-b522-46ed-b8b6-bf4119f4290a,resinous.meme,available,12.98,15.98,medium,low,8,namecheap,,,09/09/2026 15:13
-751048df-3133-4806-b88b-8ef2bf1a127d,attilio.meme,available,12.98,15.98,high,low,7,namecheap,,,21/09/2026 01:49
+751048df-3133-4806-b88b-8ef2bf1a127d,attilio.meme,available,12.98,15.98,medium,low,7,namecheap,,,21/09/2026 01:49
 2ad38f19-02ed-468a-81fa-9e718dd54cd4,academe.meme,available,12.98,15.98,high,low,7,namecheap,,,16/09/2026 20:22
-8db3ecc9-ba1d-4a75-99a2-899b79740fd7,propellent.meme,available,12.98,15.98,high,low,10,namecheap,,,09/09/2026 03:28
+8db3ecc9-ba1d-4a75-99a2-899b79740fd7,propellent.meme,available,12.98,15.98,medium,low,10,namecheap,,,09/09/2026 03:28
 7607f9f8-232f-461a-943f-68f398567657,shaped.meme,premium,187.5,187.5,high,low,6,name.com,,,25/08/2026 03:44
 8fbf9462-503f-45b0-9fd7-0aa387634b46,heathen.meme,available,12.98,15.98,high,low,7,namecheap,,,18/08/2026 21:55
 ce40a5c6-f6cf-42a8-b934-91293257d380,unabated.meme,available,12.98,15.98,medium,low,8,namecheap,,,11/09/2026 23:24
@@ -935,67 +999,3 @@ c3d0d56d-979c-4799-b57a-c466ee1f0f5d,phage.meme,available,12.98,15.98,high,low,5
 f476d9ed-db5f-43f8-8285-12895e016765,shasta.meme,available,10.81,10.81,medium,low,6,porkbun,,,28/09/2026 14:55
 a9f3ca9a-fc6c-475a-b7c8-afa354ed8241,filter.meme,premium,812.5,812.5,high,low,6,name.com,,,25/09/2026 00:06
 13b813d7-13c1-4551-a338-899b6c5efdb8,puff.meme,premium,65,65,high,low,4,namecheap,,,09/09/2026 05:34
-5381fd1d-3c5d-45fc-9d7b-0e825c743ea6,batman.meme,resell,,,high,low,6,Porkbun LLC,04/04/2025 19:31,04/04/2027 19:31,29/09/2026 01:33
-9ce91639-68f4-40c4-8b6f-f7cb8e119630,hewitt.meme,premium,117,117,high,low,6,namecheap,,,25/09/2026 15:59
-94ee2ca8-7b5a-4be6-9766-b3e32d132007,aneurin.meme,available,12.98,15.98,medium,low,7,namecheap,,,19/09/2026 05:40
-68edac29-338d-4a57-a7eb-503f4c0d28e6,furious.meme,premium,62.5,62.5,high,low,7,name.com,,,
-c2751131-c9b4-4fa6-850a-a6583964104f,sire.meme,available,10.55,10.55,high,low,4,spaceship,,,28/09/2026 14:08
-d26ed57b-af45-42af-b0e3-b65344c7a3f3,barbershop.meme,premium,65,65,high,low,10,namecheap,,,22/09/2026 04:52
-94210bc3-28f8-47e4-a381-ed7f3eb8cee1,senatorial.meme,available,12.98,15.98,medium,low,10,namecheap,,,10/09/2026 03:38
-f47dcc50-dd8f-445a-a63b-62235e1eef12,fraction.meme,premium,,,high,low,8,,,,29/09/2026 07:00
-3d2d02b5-3110-41c2-99c4-525b1e0e79d2,cutthroat.meme,available,12.98,15.98,high,medium,9,namecheap,,,10/08/2026 23:02
-9b9ca479-8b79-4728-9323-d928977eb628,props.meme,premium,93.35,93.35,high,low,5,spaceship,,,29/09/2026 07:55
-26426b72-c889-43c6-afb3-eb369fba1f8b,stats.meme,premium,845,845,high,medium,5,namecheap,,,29/09/2026 23:10
-5d1e9097-cc77-4928-a9dd-aedecc295f7f,repeal.meme,available,18.99,18.99,medium,low,6,name.com,,,16/09/2026 17:15
-d678ae83-2125-4ba7-a3b4-1edfb23f7b60,terminate.meme,available,14,,medium,low,9,unstoppable,,,28/09/2026 14:01
-12947a2c-f334-4c06-a6b2-75c6df79a4c1,infrequent.meme,available,12.98,15.98,medium,low,10,namecheap,,,22/08/2026 04:50
-49f03865-f29d-49a8-bd16-5a9e2b7c9faa,backwash.meme,available,12.98,15.98,medium,low,8,namecheap,,,17/09/2026 15:44
-7a40e037-2d71-41cd-a4ca-7ba8101a0302,gallium.meme,available,12.98,15.98,high,low,7,namecheap,,,20/09/2026 22:50
-dc6bca58-ca84-44a5-b243-01efa7175d6f,choler.meme,available,12.98,15.98,medium,low,6,namecheap,,,19/09/2026 06:04
-7c8d2de2-d589-44f9-802e-957b9f97e71a,boozy.meme,available,12.98,15.98,medium,low,5,namecheap,,,09/08/2026 19:00
-06508c86-1c3f-4031-a47a-394f1bfffddf,arcadic.meme,available,,,medium,low,7,,,,20/09/2026 01:36
-f8a9d75e-0227-4cc3-9ece-58493466a859,farfetched.meme,available,12.98,15.98,medium,low,10,namecheap,,,17/08/2026 22:32
-76c9bbb9-ea98-4422-ab35-cb652050c331,humanity.meme,premium,93.35,93.35,high,low,8,spaceship,,,29/09/2026 23:20
-e589df2f-cd9a-418c-a2b6-51cc6cb1d51d,strangers.meme,premium,62.5,62.5,medium,low,9,name.com,,,
-5bc6c0c8-afb6-4a8e-880a-0ec26e8a9c14,lagrangian.meme,available,14,,high,low,10,unstoppable,,,29/09/2026 14:39
-c6d03b6c-327f-4c1b-8358-722d6cf5a211,shutter.meme,premium,93.35,93.35,high,low,7,spaceship,,,30/09/2026 02:51
-d2eb82d9-c292-4d04-9291-041678b393ff,diseased.meme,available,12.98,15.98,medium,low,8,namecheap,,,14/08/2026 10:08
-c098a5d0-8767-494c-a011-939f76021bae,mummy.meme,premium,,,high,low,5,,,,28/09/2026 10:18
-a024f9a6-ffe8-46aa-8ccb-87f15e88ed66,below.meme,premium,195,195,high,low,5,namecheap,,,24/09/2026 12:01
-7a065bf7-a5d2-4a00-8f89-6b35a90e45ca,absurd.meme,premium,62.5,62.5,high,low,6,name.com,,,
-4eb88a52-db57-4e5c-b7f2-aef19aedc167,clockwise.meme,available,12.98,15.98,high,low,9,namecheap,,,12/08/2026 11:33
-15a36556-fcad-49b0-b06f-639d6b1718b7,praising.meme,available,12.98,15.98,high,low,8,namecheap,,,22/08/2026 20:53
-ec1b8f67-cb2f-41a1-bc7a-0ee5fc68940a,apiary.meme,available,12.98,15.98,high,low,6,namecheap,,,19/09/2026 17:20
-29240a75-d1b0-4e6a-bc7e-8e522317b80f,unspoiled.meme,available,12.98,15.98,high,low,9,namecheap,,,12/09/2026 07:08
-e6edc9a9-3536-473e-9395-9d375ca43640,mandarin.meme,premium,117,117,high,low,8,namecheap,,,23/09/2026 04:17
-afbe89d2-9619-42dc-b9cc-df7b18c81b4b,styling.meme,premium,195,195,high,low,7,namecheap,,,17/09/2026 18:14
-8427d39a-1943-4b60-90b1-592a692b6fef,atp.meme,premium,117,117,high,low,3,namecheap,,,28/09/2026 18:27
-3cbf362c-85a3-47e7-a8ba-6b6a2b0680c7,visionary.meme,available,12.98,15.98,high,low,9,namecheap,,,13/09/2026 06:13
-4ca031aa-7cdc-430b-b874-d2e62f63e484,waylay.meme,available,12.98,15.98,medium,low,6,namecheap,,,18/09/2026 17:32
-446d3daa-134d-4051-8a51-a3f2e3fce0ab,expected.meme,premium,62.5,62.5,high,low,8,name.com,,,17/08/2026 18:04
-4faa186a-6bf8-430f-a184-05a18372e284,schumann.meme,available,12.98,15.98,high,low,8,namecheap,,,28/09/2026 05:27
-f5be7f06-ecfd-4e15-b51c-4a947052fc4f,fiscal.meme,premium,195,195,high,low,6,namecheap,,,19/09/2026 10:22
-3591d391-e9ca-42fa-8cd9-7f5a75d2da89,marrow.meme,premium,65,65,high,low,6,namecheap,,,14/09/2026 23:46
-5c251ef9-65cb-46ca-9c4b-25bfba3a176c,follow.meme,premium,437.5,,high,low,6,name.com,,,
-ec1c8423-b27b-439b-9ec3-458b60d17b95,keyed.meme,available,12.98,15.98,medium,low,5,namecheap,,,22/08/2026 15:42
-c95d8530-e623-4308-90a6-715e675a8b94,painted.meme,premium,195,195,high,low,7,namecheap,,,25/09/2026 23:19
-63f34e87-7072-40a1-8952-302e494e8ba9,amazed.meme,available,12.98,15.98,high,low,6,namecheap,,,22/09/2026 03:33
-73d57b52-ed38-47ae-9eed-c6f7eb894802,ripe.meme,premium,55.11,55.11,high,low,4,porkbun,,,27/09/2026 15:25
-123a5cff-d47c-473f-ac8d-b36aef3944be,fleet.meme,premium,195,195,high,high,5,namecheap,,,24/09/2026 19:57
-07800ee9-062c-4695-9008-5c6b37e67c26,carey.meme,premium,93.35,93.35,high,medium,5,spaceship,,,29/09/2026 10:49
-fd915ff0-81af-4487-9988-4028023b767d,retinal.meme,available,12.98,15.98,high,low,7,namecheap,,,09/09/2026 15:37
-a95765e7-1ab9-4f1b-b18c-31aab2f44401,rfc.meme,premium,117,117,high,low,3,namecheap,,,27/09/2026 06:31
-cdf0ec76-a2e1-4099-b204-fbfda8a88fd9,fire.meme,premium,845,845,high,high,4,namecheap,,,24/09/2026 19:12
-ce6e67d5-8738-414e-96fd-03460c346040,ramp.meme,premium,117,117,high,low,4,namecheap,,,18/09/2026 11:33
-84c44fd8-f984-491c-90ec-d96329d4ab4c,bethany.meme,available,10.81,10.81,medium,low,7,porkbun,,,28/09/2026 07:45
-9a4a6b86-e4ca-4781-93aa-91e7b8853abf,stays.meme,premium,117,117,high,low,5,namecheap,,,24/09/2026 18:24
-7d7bdc80-90c4-4121-a67f-878ae0f17ff7,ropy.meme,available,12.98,15.98,high,medium,4,namecheap,,,09/09/2026 18:37
-ed036fd0-cd63-42b7-9746-a15e51401b11,privately.meme,available,12.98,15.98,high,low,9,namecheap,,,15/09/2026 04:43
-b79a283d-c922-44c4-b76e-9292fc11018f,jules.meme,premium,117,117,high,low,5,namecheap,,,25/09/2026 15:01
-15305ba8-9c02-43e5-8ffd-5863f2fb69f8,boys.meme,premium,455,455,high,low,4,namecheap,,,25/09/2026 17:34
-968fb5c4-4325-4257-a511-a39a37446053,balmoral.meme,available,12.98,15.98,high,low,8,namecheap,,,21/09/2026 23:39
-835cc266-9be9-4cad-b11b-9462a9f38b24,clogged.meme,available,12.98,15.98,medium,low,7,namecheap,,,12/08/2026 06:41
-1d0b158a-cec3-4b78-bd89-e06f079ab44d,crazily.meme,available,12.98,15.98,medium,low,7,namecheap,,,14/09/2026 09:15
-34b86771-c5f7-4a38-8264-a48c95c92962,snuffling.meme,available,12.98,15.98,high,medium,9,namecheap,,,10/09/2026 12:36
-e696fa91-abfd-4d5e-b499-df1c11213948,dalliance.meme,available,12.98,15.98,medium,low,9,namecheap,,,11/09/2026 19:38
-4b60b418-b8fc-46d9-82f0-6e108c821514,leaning.meme,available,12.98,15.98,high,low,7,namecheap,,,07/08/2026 13:24
